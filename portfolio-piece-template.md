@@ -1,5 +1,5 @@
 ---
-category: Graphi design
+category: Graphic design
 name: WWD (wildlife typography project)
 desc: We had to design a wild life book to educate the public on the neccessary precautions in saving wild life. 
 photo:
