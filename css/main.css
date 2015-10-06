@@ -23,6 +23,11 @@ body {
 	margin: 0;
 }
 
+img {
+	display: block;
+	width: 100%;
+}
+
 h1 {
 	margin: 0;
 	font-family: 'Merriweather', serif; font-weight: 700; 
@@ -73,6 +78,11 @@ nav a:hover {
 
 main {
 	padding: 0 1em;
+}
+
+.logo {
+	width: 20%;
+	margin: 0 0 0.2em 1em
 }
 
 blockquote {
