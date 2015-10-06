@@ -58,11 +58,11 @@ nav ul {
 }
 
 nav li {
-	display: inline-block;
+	display: block;
 }
 
 nav a {
-	display: block; 
+	display:block; 
 	padding: 0.5em 0.75em;
 	background-color: #8e8e8e;
 	border-radius: 8px;
@@ -79,8 +79,14 @@ nav a:hover {
 
 @media only screen and (min-width: 17em) {
 
-	nav:
-	display; inline-block;
+	.nav {
+		text-align: center;
+	}
+
+	.nav li {
+		display: inline-block;
+		border-radius: 2px;
+	}
 }
 
 main {
