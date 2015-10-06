@@ -84,7 +84,7 @@ nav li {
 }
 
 nav a {
-	display:block; 
+	display: block; 
 	padding: 0.5em 0.75em;
 	background-color: #8e8e8e;
 	border-radius: 8px;
@@ -99,6 +99,10 @@ nav a:hover {
 
 }
 
+.contact {
+	text-decoration: none;
+}
+
 @media only screen and (min-width: 17em) {
 
 	.nav {
@@ -110,6 +114,14 @@ nav a:hover {
 		border-radius: 2px;
 		overflow: hidden;
 	}
+
+	.contact {
+
+	display: inline-block;
+	text-decoration: none;
+	padding-left: 45%;
+	}
+
 }
 
 @media only screen and (min-width: 40em) {
@@ -126,44 +138,43 @@ nav a:hover {
 	}
 }
 
-main {
-	padding: 0 1em;
-}
+	main {
+		padding: 0 1em;
+	}
 
-.logo {
-	width: 20%;
-	margin: 0 0 0.2em 1em
-}
+	.logo {
+		width: 20%;
+		margin: 0 0 0.2em 1em
+	}
 
-blockquote {
-	border-bottom:  3px solid #fff;
-	color: #4f4f4f;
-	margin: 0;
-	padding: 1em;
-	text-align: center;
-	font-style: italic;
-}
+	blockquote {
+		border-bottom:  3px solid #fff;
+		color: #4f4f4f;
+		margin: 0;
+		padding: 1em;
+		text-align: center;
+		font-style: italic;
+	}
 
-blockquote p {
-	margin: 0;
-	font-size: 1.25rem;
-}
+	blockquote p {
+		margin: 0;
+		font-size: 1.25rem;
+	}
 
-.banner {
- position: relative;
-}
+	.banner {
+	 position: relative;
+	}
 
-.banner-content {
-	background-color: #bbb;
+	.banner-content {
+		background-color: #bbb;
 
-	text-align: center;
+		text-align: center;
 
-}
+	}
 
-.contact {
 
-	display: inline-block;
-	text-decoration: none;
+@media only screen and (min-width: 40em) {
+
 }
 
 
