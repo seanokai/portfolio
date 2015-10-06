@@ -11,8 +11,46 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  background-color: #aaaaaa;
+  font: normal 100%/1.5 Georgia,serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+	margin: 0;
+}
+
+h1 {
+	margin: 0;
+	font-family: 'Merriweather', serif; font-weight: 700; 
+}
+
+h2,
+h3,
+h4 {
+	font-family: 'Merriweather', serif;
+}
+
+header {
+	background-color: #e8e8e8;
+	text-align: center;
+
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	display: inline-block;
+}
+
