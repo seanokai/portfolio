@@ -38,7 +38,6 @@ figure {
 	.col{
 		float: left;
 		width: 50%;
-		border-radius: 
 		margin: 0;
 	}
 }
@@ -109,6 +108,7 @@ nav a:hover {
 	.nav li {
 		display: inline-block;
 		border-radius: 2px;
+		overflow: hidden;
 	}
 }
 
@@ -148,3 +148,25 @@ blockquote p {
 	margin: 0;
 	font-size: 1.25rem;
 }
+
+.banner {
+ position: relative;
+}
+
+.banner-content {
+	background-color: #bbb;
+
+	text-align: center;
+
+}
+
+.contact {
+
+	display: inline-block;
+	text-decoration: none;
+}
+
+
+
+
+
