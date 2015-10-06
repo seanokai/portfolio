@@ -62,5 +62,29 @@ nav a {
 	border-radius: 8px;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
+	color: #fff;
 }
 
+nav a:hover {
+	background-color: #fff;
+	color: #8e8e8e;
+
+}
+
+main {
+	padding: 0 1em;
+}
+
+blockquote {
+	border-bottom:  3px solid #fff;
+	color: #4f4f4f;
+	margin: 0;
+	padding: 1em;
+	text-align: center;
+	font-style: italic;
+}
+
+blockquote p {
+	margin: 0;
+	font-size: 1.25rem;
+}
