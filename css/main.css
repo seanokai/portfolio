@@ -29,6 +29,29 @@ img {
 	width: 100%;
 }
 
+figure {
+	margin: 0;
+}
+
+@media only screen and (min-width: 35em) {
+
+	.col{
+		float: left;
+		width: 50%;
+		border-radius: 
+		margin: 0;
+	}
+}
+
+@media only screen and (min-width: 60em) {
+
+	.col{
+		float: left;
+		width: 33.333%;
+		margin: 0;
+	}
+}
+
 h1 {
 	margin: 0;
 	font-family: 'Merriweather', serif; font-weight: 700; 
@@ -86,6 +109,20 @@ nav a:hover {
 	.nav li {
 		display: inline-block;
 		border-radius: 2px;
+	}
+}
+
+@media only screen and (min-width: 40em) {
+
+	.nav {
+		display: block;
+		position: static;
+	}
+
+	.nav li {
+		display: inline-block;
+		float: none;
+		width: auto;
 	}
 }
 
