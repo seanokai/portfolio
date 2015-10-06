@@ -37,7 +37,12 @@ h4 {
 header {
 	background-color: #e8e8e8;
 	text-align: center;
+	padding: 1em 0;
 
+}
+
+nav {
+	font-size: 0.90rem;
 }
 
 nav ul {
@@ -51,6 +56,11 @@ nav li {
 }
 
 nav a {
-	display: inline-block;
+	display: inline-block; 
+	padding: 0.5em 0.75em;
+	background-color: #8e8e8e;
+	border-radius: 8px;
+	text-decoration: none;
+	font-family: 'Merriweather', serif; font-weight: 300;
 }
 
