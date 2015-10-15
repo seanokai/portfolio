@@ -149,6 +149,15 @@ nav a:hover {
 		margin: 0 0 0.2em 1em
 }
 
+.blockquotepara {
+		border-bottom:  3px solid #fff;
+		color: #4f4f4f;
+		margin: 0;
+		padding: 1em;
+		text-align: center;
+		font-style: normal;
+}
+
 blockquote {
 		border-bottom:  3px solid #fff;
 		color: #4f4f4f;
