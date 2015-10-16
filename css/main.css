@@ -22,9 +22,10 @@ html {
 
 body {
 	margin: 0;
+	padding: 0;
 }
 
-img {
+.img-flex {
 	display: block;
 	width: 100%;
 }
@@ -43,10 +44,6 @@ figure {
 	width: 33.333%;
 }
 
-.gutter {
-	padding-left: 1em;
-	padding-right: 1em;
-}
 
 @media only screen and (min-width: 35em) {
 
