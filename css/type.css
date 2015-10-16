@@ -1,5 +1,5 @@
 html {
-  font-family: 'Droid Serif', serif;
+  font-family: 'Merriweather', serif;
 }
 
 @media only screen and (min-width: 60em) {
@@ -40,7 +40,7 @@ fieldset, pre, table {
 
 .droid{
 
-  font-family: 'Droid Serif', serif;
+  font-family: 'Merriweather', serif;
   font-size: 2.2807rem;
   line-height: 1.3154;
 }
@@ -220,5 +220,5 @@ sub {
 
 h1, h2, h3, h4, h5, h6,
 .font-brand {
-  font-family: 'Droid Serif', sans-serif;
+  font-family: 'Merriweather', serif;
 }
