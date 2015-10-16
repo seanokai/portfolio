@@ -33,6 +33,16 @@ figure {
 	margin: 0;
 }
 
+.grid {
+	border: 1px solid red;
+	overflow: hidden;
+}
+
+.unit {
+	float: left;
+	width: 33.333%;
+}
+
 @media only screen and (min-width: 35em) {
 
 	.col{
@@ -140,7 +150,7 @@ nav a:hover {
 	}
 }
 
-	main {
+main {
 		padding: 0 1em;
 	}
 
@@ -151,9 +161,9 @@ nav a:hover {
 
 .blockquotepara {
 		border-bottom:  3px solid #fff;
-		color: #4f4f4f;
+		color: #000;
 		margin: 0;
-		padding: 4em;
+		padding: 1em;
 		text-align: center;
 		font-style: normal;
 }
