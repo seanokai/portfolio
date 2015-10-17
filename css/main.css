@@ -45,22 +45,10 @@ figure {
 }
 
 
-@media only screen and (min-width: 35em) {
-
-	.col{
-		float: left;
-		width: 50%;
-		margin: 0;
-	}
-}
 
 @media only screen and (min-width: 60em) {
 
-	.col{
-		float: left;
-		width: 33.333%;
-		margin: 0;
-	}
+
 }
 
 h1 {
@@ -152,23 +140,14 @@ nav a:hover {
 	}
 }
 
-main {
-		padding: 0 1em;
-	}
 
-	.logo {
+
+
+.logo {
 		width: 20%;
 		margin: 0 0 0.2em 1em
 }
 
-.blockquotepara {
-		border-bottom:  3px solid #fff;
-		color: #000;
-		margin: 0;
-		padding: 1em;
-		text-align: center;
-		font-style: normal;
-}
 
 blockquote {
 		border-bottom:  3px solid #fff;
@@ -184,29 +163,8 @@ blockquote p {
 		font-size: 1.25rem;
 }
 
-.banner {
-	 position: relative;
-}
-
-	.banner-content {
-		background-color: #bbb;
-
-		text-align: center;
-
-}
-
-
 
 
 .footer {
 	padding: 1em 0;
 }
-
-.mainpara {
-text-align: center;
-}
-
-
-
-
-
