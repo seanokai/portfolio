@@ -56,7 +56,7 @@
 }
 
 
-@media only screen and (min-width: 4em) {
+@media only screen and (min-width: 8em) {
 
 .unit-xs-hidden {
   display: none;
@@ -170,7 +170,7 @@
 }
 
 
-@media only screen and (min-width: 15em) {
+@media only screen and (min-width: 20em) {
 
 .unit-s-hidden {
   display: none;
