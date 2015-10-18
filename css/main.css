@@ -5,7 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  box-sizing: border-box;
+ 	box-sizing: border-box;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -13,7 +13,7 @@ html {
   text-size-adjust: 100%;
 
   background-color: #aaaaaa;
-  font: normal 100%/1.5 Georgia,serif;
+  font: normal 100%/1.5 'Merriweather',serif;
 }
 
 *, *::before, *::after {
@@ -35,7 +35,7 @@ figure {
 }
 
 .grid {
-	border: 1px 0 0 1px;
+	border: 1px;
 	overflow: hidden;
 }
 
