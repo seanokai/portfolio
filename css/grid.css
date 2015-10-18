@@ -55,6 +55,9 @@
   position: relative;
 }
 
+
+@media only screen and (min-width: 4em) {
+
 .unit-xs-hidden {
   display: none;
   visibility: hidden;
@@ -164,7 +167,10 @@
   visibility: visible;
 }
 
-@media only screen and (min-width: 10em) {
+}
+
+
+@media only screen and (min-width: 15em) {
 
 .unit-s-hidden {
   display: none;
