@@ -1,0 +1,1 @@
+var $btn = $('.btn-video');
