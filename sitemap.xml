@@ -1,0 +1,18 @@
+<?xml version="1.0 encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc> https://seanokai.github.io/portfolio/index.html  </loc>
+		<priority> 2.0 </priority>
+		<changefreq>weekly</changefreq>
+		<lastmode>2015-10-27 </lastmod>
+	</url>
+
+	<url>
+		<loc> https://seanokai.github.io/portfolio/works/index.html  </loc>
+		<priority> 0.5 </priority>
+		<changefreq>weekly</changefreq>
+		<lastmode>2015-10-27 </lastmod>
+	</url>
+
+</urlset>	
