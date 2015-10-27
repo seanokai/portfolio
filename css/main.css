@@ -192,3 +192,9 @@ blockquote p {
 .footer {
 	padding: 1em 0;
 }
+
+.contact {
+
+		display: inline-block;
+		text-decoration: none;
+	}
