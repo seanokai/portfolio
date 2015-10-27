@@ -1,0 +1,30 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Sean Zulu Okai <hello@seanzokai.ca>
+site: https://seanzokai.ca
+Github: https://github.com/seanokai/portfolio
+Twitter: @Piclava
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Thomas J Bradley (The coding god)
+
+---
+
+#TECHNOLOGY
+
+##Software
+
+- Sublime text 2
+- Git + Github
+= Jekyll
+- Ruby
+-Markdown
+
+
+## Hosting
