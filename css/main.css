@@ -23,6 +23,7 @@ html {
 body {
 	margin: 0;
 	padding: 0;
+	background-color: #F5F5F5;
 }
 
 .img-flex {
@@ -205,6 +206,7 @@ blockquote p {
 
 		display: inline-block;
 		text-decoration: none;
+		text-align: center;
 	}
 
 .vid {
@@ -233,3 +235,5 @@ blockquote p {
 
 	padding-top: 56.25%;
 }
+
+
