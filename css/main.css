@@ -112,7 +112,7 @@ nav li {
 nav a {
 	display: block; 
 	padding: 0.5em 0.75em;
-	background-color: #404040;
+	background-color: #CBCBCB;
 	border-radius: 8px;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
@@ -245,7 +245,7 @@ background-color: #48515B;
 
 blockquote {
 		border-bottom:  3px solid #fff;
-		color: #4f4f4f;
+		color: #EFA45F;
 		margin: 0;
 		padding: 1em;
 		text-align: center;
