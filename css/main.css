@@ -131,7 +131,15 @@ nav a {
 .nav-label {
 	cursor: pointer;
 	font-size: 1.25rem;
+	display: inline-block;
+	width: 40px;
 
+}
+
+.nav-open,
+.nav-close {
+	display: block;
+	width: 100%;
 }
 
 
@@ -139,6 +147,23 @@ nav a {
 	 background-color: #ccc;
 
 }
+
+
+.nav-close {
+	display: none;
+}
+
+.nav-check:checked ~ .nav-label .nav-open {
+
+	display: none;
+}
+
+.nav-check:checked ~ .nav-label .nav-close {
+	display: block;
+}
+
+
+
 .current{
 background-color: #fff;
 	color: #4C4C4C;

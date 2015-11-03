@@ -8,7 +8,10 @@
 			<nav>
 
 				<input type="checkbox" class="nav-check" id="nav-check">
-				<label class="nav-label" for="nav-check">Navigate</label> 
+				<label class="nav-label" for="nav-check">
+					<img class="nav-open" src="images/nav-icon.svg" alt="open navigation">
+					<img class="nav-close" src="images/nav-icon-close.svg" alt="open navigation">
+				</label> 
 				<ul class="nav">
 					<li><a class="btn {% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/index.html">Home</a></li>
 					<li><a class="btn {% if page.url contains 'works' %}current{% endif %}" href="{{site.baseurl}}/works/index.html">Works</a></li>
