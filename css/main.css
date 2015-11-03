@@ -51,7 +51,7 @@ a {
 }
 
 
-a:visited { 
+nav a:visited { 
 
 	color: #FF774A; 
 }
@@ -77,7 +77,7 @@ h4 {
 
 
 header {
-	background-color: #e8e8e8;
+	background-color: #B9BEC3;
 	text-align: center;
 	padding: 1em 0 40px;
 	position: relative;
@@ -112,7 +112,7 @@ nav li {
 nav a {
 	display: block; 
 	padding: 0.5em 0.75em;
-	background-color: #48515B;
+	background-color: #404040;
 	border-radius: 8px;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
@@ -143,12 +143,13 @@ nav a {
 	width: 40px;
 	height: 40px;
 	position: absolute;
-	right: 0;
+	right: 3%;
 	bottom: 0;
 	background-image: url("../images/toggle-nav.svg");
 	background-size: 40px auto;
 	overflow: hidden;
 	text-indent: 100%;
+	padding-right: 2em;
 	white-space: nowrap;
 
 }
@@ -174,7 +175,7 @@ nav a {
 
 
 .current{
-background-color: #fff;
+background-color: #48515B;
 	color: #4C4C4C;
 
 }
@@ -233,6 +234,11 @@ background-color: #fff;
 .logo {
 		width: 20%;
 		margin: 0 0 0.2em 1em;
+}
+
+.col {
+
+	color: #fff;
 }
 
 
