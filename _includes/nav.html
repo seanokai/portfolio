@@ -5,7 +5,10 @@
 
 			<meta name="description" content="Navigation for my page">
 
-			<nav> 
+			<nav>
+
+				<input type="checkbox" class="nav-check" id="nav-check">
+				<label class="nav-label" for="nav-check">Navigate</label> 
 				<ul class="nav">
 					<li><a class="btn {% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/index.html">Home</a></li>
 					<li><a class="btn {% if page.url contains 'works' %}current{% endif %}" href="{{site.baseurl}}/works/index.html">Works</a></li>
