@@ -76,7 +76,8 @@ h4 {
 header {
 	background-color: #e8e8e8;
 	text-align: center;
-	padding: 1em 0;
+	padding: 1em 0 40px;
+	position: relative;
 
 }
 
@@ -87,6 +88,10 @@ nav {
 .nav {
 
 	display: none;
+	position: absolute;
+	right: 0;
+	top: 100%;
+	width: 15em;
 }
 
 
@@ -133,6 +138,9 @@ nav a {
 	font-size: 1.25rem;
 	display: inline-block;
 	width: 40px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
 
 }
 
@@ -182,6 +190,8 @@ background-color: #fff;
 	padding: 1em;
 }
 
+/*  remember to re add this!!
+
 @media only screen and (min-width: 17em) {
 
 	.nav {
@@ -216,7 +226,7 @@ background-color: #fff;
 	}
 }
 
-
+*/
 
 
 .logo {
