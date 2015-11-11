@@ -82,10 +82,11 @@ h4 {
 
 
 header {
-	background-color: #B9BEC3;
+	/*background-color: #B9BEC3;*/
 	text-align: center;
 	padding: 1em 0 40px;
 	position: relative;
+	background: url("../images/header-bg.jpg") no-repeat center top / cover;
 	/*min-height: 100vh;*/
 
 }
