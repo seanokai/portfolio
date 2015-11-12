@@ -23,7 +23,7 @@ html {
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #F3F3F3;
+	background-color: #FFFFFF;
 }
 
 .img-flex {
@@ -324,7 +324,7 @@ blockquote p {
 
 .blockquotepara1 {
 
-	border-bottom:  3px solid #7F8FA1;
+	border-bottom:  3px solid #F78D1F;
 	font-style: normal;	
 }
 
