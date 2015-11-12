@@ -90,12 +90,19 @@ header {
 	text-align: center;
 	padding: 1em 0 40px;
 	position: relative;
-	background:	
-	 url("../images/header-bg.jpg") no-repeat center top / cover;
-	padding-top: 2%;
-	/*min-height: 100vh;*/
+	background-color: #F78D1F;
 
 }
+
+.hero {
+
+	background:	
+	 url("../images/header-bg.jpg") no-repeat left bottom / cover;
+	padding: 2em 0;
+	background-size: cover;
+}
+
+
 
 nav {
 	font-size: 0.90rem;
