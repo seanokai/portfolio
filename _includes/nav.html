@@ -5,12 +5,12 @@
 
 			<meta name="description" content="Navigation for my page">
 
-			<nav>
+			<nav role="navigation">
 
 				<input type="checkbox" class="nav-check" id="nav-check">
 				<label class="nav-label" for="nav-check">Menu</label> 
 
-				<ul class="nav">
+				<ul class="nav" role="button list">
 					<li><a class="btn {% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/index.html">Home</a></li>
 					<li><a class="btn {% if page.url contains 'works' %}current{% endif %}" href="{{site.baseurl}}/works/index.html">Works</a></li>
 					<li><a class="btn" href="#contact">Contact</a></li>
