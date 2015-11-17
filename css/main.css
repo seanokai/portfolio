@@ -50,6 +50,25 @@ a {
 	text-decoration: none;
 }
 
+a,
+a:link {
+
+	color: orange;
+	transition: color 1000ms linear;
+}
+
+a:visited {
+	color: #E99E15;
+
+}
+
+a:hover,
+a:focus;
+a:active {
+
+	color: #B47501;
+}
+
 
 nav a:visited { 
 
