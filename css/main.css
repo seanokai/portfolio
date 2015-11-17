@@ -429,6 +429,10 @@ blockquote p {
 	padding-top: 56.25%;
 }
 
+.bottom-marg {
+	margin-top: 0;
+}
+
 
 .mail-icon{
   width:185px;
