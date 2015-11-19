@@ -386,7 +386,7 @@ blockquote p {
 }
 
 .surround {
-	margin: 1rem;
+	margin: 1rem
 }
 
 
@@ -406,7 +406,13 @@ blockquote p {
 		display: inline-block;
 		text-decoration: none;
 		text-align: center;
-	}
+}
+
+.con-title{
+
+	text-align: center;
+}
+
 
 .vid {
 	width: 100%;
