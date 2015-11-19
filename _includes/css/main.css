@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  background-color: #aaaaaa;
+  
   font: normal 100%/1.5 'Merriweather',serif;
 }
 
@@ -385,10 +385,20 @@ blockquote p {
 	text-align: center;
 }
 
+.surround {
+	margin: 1rem;
+}
+
 
 
 .footer {
-	padding: 1em 0;
+	background-color: #aaa;
+	padding: 0.5rem 1rem;
+	font-size: 0.5rem;
+}
+
+.footer p {
+	margin: 0;
 }
 
 .contact {
