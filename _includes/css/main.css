@@ -181,7 +181,7 @@ nav li {
 nav a {
 	display: block; 
 	padding: 0.5em 0.75em;
-	background-color: #DEDEDE;
+	background-color: #fff;
 	border-radius: 8px;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
