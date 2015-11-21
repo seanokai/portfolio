@@ -195,7 +195,8 @@ nav a {
 }
 
 .back {
-	padding:2rem 2rem 4rem 5rem;
+	padding-left: 5rem;
+	padding-top: 2rem;
 }
 
 .backup {
