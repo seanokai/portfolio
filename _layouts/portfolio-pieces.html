@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}} · {% endif %}Seanzokai Portfolio · Works · Ottawa · Canada</title>
   <link href="{{site.baseurl}}/css/portfolio.css" rel="stylesheet">
+  <meta name="description" content="{{page.meta}}">
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -27,12 +28,42 @@
 	</header>
 
 
-	<div>
-	<a href="{{site.baseurl}}/works/index.html" alt=""> << Go back</a>
+	<div class="back">
+	<a href="{{site.baseurl}}/works/index.html" alt=""><img src="{{site.baseurl}}/images/back.svg"></a>
 	</div>
 
 
 	{{content}}
+
+
+	<h2 class="con-title">Contact</h2>
+	<div>
+
+
+		<div class="contact unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+			
+
+		<!--	<div class="mail-icon">
+			  <p class="font-style">@</p>
+			</div>
+
+			<a id="contact"></a>
+
+		-->
+		
+			<a id="contact"></a>
+
+			<div>
+			   <a href="https://instagram.com/piolab/"> Instagram </a>
+			</div>
+			        
+			<div>
+			   <a href="https://github.com/seanokai/business-card-site"> Github </a>
+			</div>
+
+		</div>
+
+	</div>
 
 	<footer class="gutter">
 			<p>© Piolab design portfolio for Graphic design.</p>

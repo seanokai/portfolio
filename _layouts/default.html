@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}} · {% endif %}Seanzokai Portfolio · Designer · Ottawa · Canada</title>
-  <meta name="description" content="The main home page containing content for my main page.">
+  <meta name="description" content="{{page.meta}}">
   <link href="{{site.baseurl}}/css/portfolio.css" rel="stylesheet">
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
@@ -55,9 +55,41 @@
 
 	{{content}}
 
-<div>
-<a href="#top" class="">Back^up</a>
+
+	<h2 class="con-title">Contact</h2>
+	<div>
+
+
+		<div class="contact unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+			
+
+		<!--	<div class="mail-icon">
+			  <p class="font-style">@</p>
+			</div>
+
+			<a id="contact"></a>
+
+		-->
+		
+			<a id="contact"></a>
+
+			<div>
+			   <a href="https://instagram.com/piolab/"> Instagram </a>
+			</div>
+			        
+			<div>
+			   <a href="https://github.com/seanokai/business-card-site"> Github </a>
+			</div>
+
+		</div>
+
+	</div>
+
+<div >
+<a href="#top" ><img class="backup" src="{{site.baseurl}}/images/backup.svg"></a>
 </div>
+
+</main>
 
 	<footer class="gutter footer" role="contentinfo">
 		 <p>© Piolab design portfolio for Graphic design</p>

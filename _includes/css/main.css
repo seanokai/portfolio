@@ -194,6 +194,14 @@ nav a {
 
 }
 
+.back {
+	padding:2rem 2rem 4rem 5rem;
+}
+
+.backup {
+	padding:0rem 46%;
+}
+
 
 
 .nav-check:checked ~ .nav {
