@@ -200,7 +200,8 @@ nav a {
 }
 
 .backup {
-	padding:0rem 46%;
+	margin-left: 10em;
+
 }
 
 
@@ -416,15 +417,22 @@ blockquote p {
 
 .contact {
 
-		display: inline-block;
+	
 		text-decoration: none;
 		text-align: center;
+}
+
+.box {
+	text-align: center;
+	margin-top: 5rem;
 }
 
 .con-title{
 
 	text-align: center;
 }
+
+
 
 
 .vid {
