@@ -26,6 +26,15 @@ body {
 	background-color: #FFFFFF;
 }
 
+h6 {
+	font-family: 'Merriweather', serif; font-weight: 300;
+}
+
+footer {
+
+	font-family: 'Merriweather', serif; font-weight: 900;
+}
+
 .img-flex {
 	display: block;
 	width: 100%;
@@ -380,6 +389,7 @@ blockquote p {
 
 .blockquotepara1 {
 
+	font-family: 'Merriweather', serif; font-weight: 300;
 	border-bottom:  3px solid #F78D1F;
 	font-style: normal;	
 }
