@@ -149,7 +149,7 @@ h4 {
 header {
 	/*background-color: #B9BEC3;*/
 	text-align: center;
-	padding: 1em 0 40px;
+	padding: 1em 0 1px;
 	position: relative;
 	background-color: #E8E8E8;
 	
@@ -376,6 +376,12 @@ background-color: #262626;
 	color: #fff;
 }
 
+.title-box {
+
+	background-color: blue;
+	padding: 1em;
+}
+
 
 
 blockquote {
@@ -394,7 +400,7 @@ blockquote p {
 .blockquotepara1 {
 
 	font-family: 'Merriweather', serif; font-weight: 300;
-	border-bottom:  3px solid #F78D1F;
+	border-bottom:  3px solid #FFC766;
 	font-style: normal;	
 }
 
