@@ -378,8 +378,16 @@ background-color: #262626;
 
 .title-box {
 
-	background-color: blue;
+	background-color: #F6F6F7;
 	padding: 1em;
+	text-align: center;
+}
+
+.inside {
+	margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 
