@@ -144,6 +144,12 @@ h4 {
 	color: #000;
 }
 
+.aboutme {
+
+	font-size: 1.5em;
+	color: #fff;
+}
+
 
 
 header {
@@ -424,7 +430,9 @@ blockquote p {
 }
 
 .blockquoteabout {
-
+	margin-top: 1em;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 	background-color: #7F8FA1;
 	font-weight: 300;
 }
