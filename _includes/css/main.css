@@ -215,8 +215,8 @@ nav a {
 .backup {
 	margin-left: 10em;
 	position: fixed;
-	bottom: 1rem;
-	right: 5rem;
+	bottom: 0.5rem;
+	right: 3rem;
 
 }
 
