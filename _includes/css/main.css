@@ -141,7 +141,7 @@ h4 {
 }
 
 .sokai {
-	color: #FFF;
+	color: #000;
 }
 
 
@@ -214,6 +214,9 @@ nav a {
 
 .backup {
 	margin-left: 10em;
+	position: fixed;
+	bottom: 2rem;
+	right: 5rem;
 
 }
 
@@ -418,6 +421,12 @@ blockquote p {
 	font-style: normal;	
 }
 
+.blockquoteabout {
+
+	background-color: #7F8FA1;
+	font-weight: 300;
+}
+
 .headcent {
 
 	text-align: center;
@@ -434,6 +443,7 @@ blockquote p {
 
 
 .footer {
+	clear: both;
 	background-color: #aaa;
 	padding: 0.5rem 1rem;
 	font-size: 0.5rem;
