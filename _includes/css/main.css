@@ -201,8 +201,9 @@ nav li {
 nav a {
 	display: block; 
 	padding: 0.5em 0.75em;
-	background-color: #4D4D4D;
+	background-color: #fff;
 	border-radius: 8px;
+	border: 1px solid #FFDC9C;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
 	color: #fff;
@@ -475,6 +476,11 @@ blockquote p {
 .contact li {
 
 	display: inline-block;
+}
+
+.about-pic {
+	margin-top: 1em;
+	background: url("../images/zulu.jpg") no-repeat left top / cover; 
 }
 
 .box {
