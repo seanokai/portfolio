@@ -466,6 +466,7 @@ blockquote p {
 
 .contact {
 
+		padding: 0;
 		text-decoration: none;
 		text-align: center;
 		list-style: none;
