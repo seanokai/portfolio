@@ -466,9 +466,14 @@ blockquote p {
 
 .contact {
 
-	
 		text-decoration: none;
 		text-align: center;
+		list-style: none;
+}
+
+.contact li {
+
+	display: inline-block;
 }
 
 .box {
