@@ -144,11 +144,29 @@ h4 {
 	color: #000;
 }
 
+.gold-top{
+
+	border-top: 1px solid #FFC766;
+}
+
 .aboutme {
 
 	font-weight: 300;
 	color: #FFD6AC;
 	text-align: center;
+}
+
+.aboutmetwo {
+	
+	font-weight: 300;
+	color: #FFF2E4;
+	text-align: center;
+}
+
+.techprof {
+
+	text-align: center;
+	color: white;
 }
 
 
@@ -184,6 +202,7 @@ nav {
 	right: 0;
 	top: 100%;
 	width: 15em;
+	padding-left: 1rem;
 }
 
 
@@ -332,12 +351,23 @@ background-color: #262626;
 
 }
 
+.contact-add {
+	color: #F9A719;
+	text-align: center;
+}
+
 
 
 .piece-text {
 
 	text-align: center;
 	padding: 1em;
+	font-weight: 300;
+}
+
+.contactme {
+	color: #7F8FA1;
+	text-align: center;
 }
 
 /*  remember to re add this!!
