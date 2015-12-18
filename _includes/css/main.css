@@ -354,7 +354,8 @@ background-color: #262626;
 
 .contact-add {
 	color: #F9A719;
-	text-align: center;
+	padding-left: 48%;
+	padding-right: 48%;
 }
 
 
@@ -559,7 +560,7 @@ blockquote p {
 }
 
 .helpbg {
-	
+
 	background-color: #FFC253;
 }
 
