@@ -347,7 +347,9 @@ background-color: #262626;
 		width: auto;
 		display: inline-block;
 	}
-
+.thin {
+	font-weight: 300;
+}
 
 
 }
