@@ -351,13 +351,17 @@ background-color: #262626;
 	font-weight: 300;
 }
 
+.motion-color {
+	background-color: orange;
 
 }
 
+
+
+
 .contact-add {
 	color: #F9A719;
-	padding-left: 48%;
-	padding-right: 48%;
+	padding-left: 47%;
 }
 
 
