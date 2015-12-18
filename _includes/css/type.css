@@ -74,6 +74,7 @@ h4, .giga {
 h5, .mega {
   font-size: 1.1250rem;
   line-height: 1.3333;
+  margin-bottom: -1rem;
 }
 
 h6, .kilo {
