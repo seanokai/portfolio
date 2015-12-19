@@ -178,7 +178,7 @@
 } 
 
 
-@media only screen and (min-width: 16em) {
+@media only screen and (min-width: 13em) {
 
 .unit-s-hidden {
   display: none;
