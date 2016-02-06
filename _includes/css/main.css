@@ -142,7 +142,7 @@ h4 {
 }
 
 .sokai {
-	color: #000;
+	color: #6B6B6B;
 }
 
 .gold-top{
@@ -182,14 +182,21 @@ h4 {
 
 
 header {
-	/*background-color: #B9BEC3;*/
+	background-color: #B9BEC3;
 	text-align: center;
 	padding: 1em 0 1px;
-	position: relative;
-	background-color: #E8E8E8;
-	
+	position: relative;	
 
 }
+
+/*.back-image {
+
+	background:	
+	 url("../images/header-bg.jpg") no-repeat left bottom / cover;
+
+}
+
+*/
 
 .hero {
 
@@ -394,6 +401,8 @@ background-color: #262626;
 .contactme {
 	color: #7F8FA1;
 	text-align: center;
+	background-color: ;
+
 }
 
 /*  remember to re add this!!
@@ -533,6 +542,10 @@ blockquote p {
 .contact li {
 
 	display: inline-block;
+}
+
+.contactabout{
+	background-color: ;
 }
 
 .about-pic {
