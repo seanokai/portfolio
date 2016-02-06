@@ -1,0 +1,1079 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"na",
+				"nav-label"
+			],
+			[
+				"nav",
+				"nav-check"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"nav-",
+				"nav-label"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"backgro",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 1544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/404.html",
+			"settings":
+			{
+				"buffer_size": 1585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-1.html",
+			"settings":
+			{
+				"buffer_size": 2024,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-2.html",
+			"settings":
+			{
+				"buffer_size": 2224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-3.html",
+			"settings":
+			{
+				"buffer_size": 1918,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-4.html",
+			"settings":
+			{
+				"buffer_size": 1383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-5.html",
+			"settings":
+			{
+				"buffer_size": 1254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-6.html",
+			"settings":
+			{
+				"buffer_size": 1490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-7.html",
+			"settings":
+			{
+				"buffer_size": 2008,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-8.html",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/main.css",
+			"settings":
+			{
+				"buffer_size": 6433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/piece.html",
+			"settings":
+			{
+				"buffer_size": 1732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/portfolio-pieces.html",
+			"settings":
+			{
+				"buffer_size": 2173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/grid.css",
+			"settings":
+			{
+				"buffer_size": 15902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/index.html",
+			"settings":
+			{
+				"buffer_size": 5732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/type.css",
+			"settings":
+			{
+				"buffer_size": 2837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/nav.html",
+			"settings":
+			{
+				"buffer_size": 407,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 70.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/index.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/css/portfolio.css",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-8.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_config.yml",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-1.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-6.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-5.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-4.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-7.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-3.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-2.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_site/works/piece-3.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/nav.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/piece.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/index.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/portfolio-pieces.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/default.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/main.css",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/CNAME",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/css/grid.css",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/css/type.css",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/portfolio.css",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-8.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-7.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-6.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-5.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-4.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-3.html",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/js/main.js",
+		"/Users/Onyeko/Desktop/Sem1-yr4/web-development/portfolio/works/piece-2.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/css/grid.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/works/piece-2.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/works/piece-1.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/works/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/sitemap.xml",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/_layouts/portfolio-pieces.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/css/main.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/_layouts/default.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/_includes/nav.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/_config.yml",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/js/main.js",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/robots.txt",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/humans.txt",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/_config",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/works/untitled",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/Assignment & Portfolio/portfolio/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assets/grids-code-master/css/common.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assets/grids-code-master/css/responsive-grids.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assets/grids-code-master/flexible-grids.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assets/grids-code-master/responsive-grids.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment & portfolio/portfolio/css/type.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/Assignment & Portfolio/portfolio/css/main.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assets/grids-code-master/css/flexible-grids.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/assignment-portfolio/portfolio/css/main.css",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/grid tryout/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/Jekyll/jekyll-intro/_congif.yml",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/business-card-site/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/Assignment & Portfolio/portfolio/main.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/business-card-site/css/main.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/Portfolio coming soon/dsn1676-assignment-3/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/Assignment & Portfolio/portfolio/portfolio-piece-template.md",
+		"/Users/Onyeko/Desktop/Sem1 yr4/web development/Assignment & Portfolio/portfolio/README.md",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/tesy ion class/---",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/tesy ion class/readme.md",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/business-card-site/css/type.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/business-card-site/css/grid.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/business-card-site/CNAME",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/dsn1676-assignment-1/index.html",
+		"/Users/Onyeko/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Warmup folder/assignment-6-download 2/index.html",
+		"/Users/Onyeko/Desktop/Sem1 yr4/index.html",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/dsn1676-term-project/js/index.js",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/dsn1676-term-project/index.html",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/dsn1676-assignment-3/css/main.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/week 2/week-2/clock-transitions-code-template/index.html",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/solutions/assignment-1-solution/index.html",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Warmup folder/neema /neems.html",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Warmup folder/neemas website",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/solutions/assignment-2-solution/css/main.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/solutions/assignment-1-solution/css/type.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/REUSABLE CODES/CSS/type.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Warmup folder/grids/css/typography.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Warmup folder/grids/index.html",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Warmup folder/grids/css/general.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/Assignment/dsn1676-assignment-1/css/index.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/intro-to-github2/css/general.css",
+		"/Users/Onyeko/Desktop/Sem2 Yr 3/Web Development/intro-to-github2/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"picture",
+			"thin",
+			"piece",
+			"gold",
+			"footer",
+			"contact-add",
+			"contact",
+			"contact-add",
+			"conta",
+			"h5",
+			"help",
+			"body",
+			"help",
+			"body",
+			"Mandela",
+			"piec",
+			"about",
+			"nav",
+			"contact",
+			"box",
+			"cont",
+			"img",
+			"cont",
+			"about",
+			"backup",
+			"footer",
+			"back",
+			"foot",
+			".back",
+			"back",
+			".headcent\n",
+			"to\n",
+			"top\n",
+			"top[\n",
+			".to\n",
+			"contact\n",
+			".contact\n",
+			".conta\n",
+			"h2\n",
+			"section\n",
+			";\n",
+			".to",
+			".contact",
+			"current",
+			";\n",
+			"fa",
+			"containing",
+			"cent",
+			"fixed",
+			"btn",
+			"normal",
+			".unit-s-1",
+			"red",
+			"0",
+			".unit",
+			"box",
+			"');\n",
+			"exa\n",
+			".exa\n",
+			".exa\\\n",
+			".unit {}\n",
+			".unit\n",
+			"grid\n",
+			"inlin\n",
+			";\n",
+			"font-brand",
+			"brand",
+			"font-brand",
+			"font",
+			"brand",
+			"panel",
+			"push"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 1544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 58.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/404.html",
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-1.html",
+					"settings":
+					{
+						"buffer_size": 2024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-2.html",
+					"settings":
+					{
+						"buffer_size": 2224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 147.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-3.html",
+					"settings":
+					{
+						"buffer_size": 1918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 141.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-4.html",
+					"settings":
+					{
+						"buffer_size": 1383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-5.html",
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-6.html",
+					"settings":
+					{
+						"buffer_size": 1490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-7.html",
+					"settings":
+					{
+						"buffer_size": 2008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								876
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/works/piece-8.html",
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/main.css",
+					"settings":
+					{
+						"buffer_size": 6433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1969,
+								1969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2500.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/piece.html",
+					"settings":
+					{
+						"buffer_size": 1732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_layouts/portfolio-pieces.html",
+					"settings":
+					{
+						"buffer_size": 2173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1208,
+								1208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 310.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/grid.css",
+					"settings":
+					{
+						"buffer_size": 15902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2595,
+								2595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 519.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/index.html",
+					"settings":
+					{
+						"buffer_size": 5732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3484,
+								3484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2824.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/css/type.css",
+					"settings":
+					{
+						"buffer_size": 2837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								966,
+								966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1077.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/Onyeko/Desktop/Sem1-yr4/web-development/assignment-portfolio/portfolio/_includes/nav.html",
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}
