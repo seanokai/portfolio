@@ -512,10 +512,10 @@ blockquote p {
 
 .footer {
 	clear: both;
-	background-color: #aaa;
+	background-color: #262C33;
 	padding: 0.5rem 1rem;
 	font-size: 0.5rem;
-	color: white;
+	color: #FADAB9;
 }
 
 .footer p {
