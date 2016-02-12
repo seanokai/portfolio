@@ -201,9 +201,8 @@ header {
 .hero {
 
 	background:	
-	 url("../images/header-bg.jpg") no-repeat left bottom / cover;
-	padding: 2em 0;
-	background-size: ;
+	 url("../images/header-bg.jpg") no-repeat center center / cover;
+	padding: 3.5em 0;
 }
 
 
@@ -473,7 +472,7 @@ background-color: #262626;
 blockquote {
 		color: #48515B;
 		margin: 1em;
-		padding: 1em;
+		/*padding: 1em;*/
 		text-align: center;
 		font-style: italic;
 }
