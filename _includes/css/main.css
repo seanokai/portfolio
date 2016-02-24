@@ -94,28 +94,27 @@ a {
 }
 
 a,
-a:link {
-
-	color: orange;
-	transition: color 1000ms linear;
-}
-
+a:link 
 a:visited {
+	
 	color: #594623;
-
+	transition: all 750ms linear;
+	
 }
+
 
 a:hover,
 a:focus;
 a:active {
 
 	color: #B47501;
+
 }
 
 
 nav a:visited { 
 
-	color: #DE8D17; 
+	color: #AA8857; 
 }
 
 
@@ -235,10 +234,9 @@ nav li {
 
 nav a {
 	display: block; 
-	padding: 0.5em 0.75em;
-	background-color: #fff;
+	padding: 0.5em 0.5em;
 	border-radius: 8px;
-	border: 1px solid #FFDC9C;
+	border: 1px solid #313131;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
 	color: #fff;
@@ -246,7 +244,10 @@ nav a {
 
 .nav a:hover {
 	background-color: #000;
-	color: #fff;
+	color: #DFB880;
+	border-radius: 10px;
+	padding: .7em .7em;
+
 
 }
 
@@ -317,10 +318,14 @@ nav a {
 
 
 .current{
-background-color: #262626;
+background-color: #1B2026;
 	color: #4C4C4C;
 
 
+}
+
+.background-color-nav {
+	background-color: #1B2026;
 }
 
 
