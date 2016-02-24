@@ -218,6 +218,7 @@ nav {
 	top: 100%;
 	width: 15em;
 	padding-left: 1rem;
+
 }
 
 
@@ -232,6 +233,12 @@ nav li {
 	display: block;
 }
 
+.bg-col-nav {
+
+	background-color: #1B2026;
+
+}
+
 nav a {
 	display: block; 
 	padding: 0.5em 0.5em;
@@ -242,6 +249,8 @@ nav a {
 	color: #AA8857;
 }
 
+
+
 .nav a:hover {
 	background-color: #000;
 	color: #DFB880;
@@ -249,6 +258,17 @@ nav a {
 	padding: .7em .7em;
 
 
+}
+
+.current{
+background-color: #1B2026;
+	color: #4C4C4C;
+
+
+}
+
+.background-color-nav {
+	background-color: #1B2026;
 }
 
 .back {
@@ -263,8 +283,6 @@ nav a {
 	right: 3rem;
 
 }
-
-
 
 
 
@@ -315,18 +333,6 @@ nav a {
 	display: block;
 }
 
-
-
-.current{
-background-color: #1B2026;
-	color: #4C4C4C;
-
-
-}
-
-.background-color-nav {
-	background-color: #1B2026;
-}
 
 
 @media only screen and (min-width: 27em) {
