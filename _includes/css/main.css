@@ -235,7 +235,7 @@ nav li {
 
 .bg-col-nav {
 
-	background-color: #1B2026;
+	background-color: #3E4146;
 
 }
 
@@ -560,7 +560,7 @@ blockquote p {
 
 .about-pic {
 	margin-top: 1em;
-	background: url("../images/sean.jpg") no-repeat left top / cover; 
+	background: url("../images/sean.jpg") no-repeat center center / cover; 
 }
 
 .box {
