@@ -33,7 +33,7 @@ h6 {
 
 footer {
 
-	font-family: 'Merriweather', serif; font-weight: 900;
+	font-family: 'Merriweather', serif; font-weight: 300;
 }
 
 .img-flex {
@@ -142,24 +142,25 @@ h4 {
 
 .sokai {
 	color: #fff;
+	font-weight: 300;
 }
 
 .gold-top{
 
-	border-top: 1px solid #FFC766;
+	border: 2px solid #000;
 }
 
 .aboutme {
 
 	font-weight: 300;
-	color: #FADAB9;
+	color: #fff;
 	text-align: center;
 }
 
 .aboutmetwo {
 	
 	font-weight: 300;
-	color: #FFF2E4;
+	color: #FADAB9;
 	text-align: center;
 }
 
@@ -173,7 +174,8 @@ h4 {
 .techprof {
 
 	text-align: center;
-	color: white;
+	color: #FADAB9;
+	font-weight: 300;
 }
 
 
@@ -507,9 +509,9 @@ blockquote p {
 }
 
 .blockquoteabout {
-	margin-top: 1em;
+	
 	padding-top: 6rem;
-	padding-bottom: 9rem;
+	padding-bottom: 7rem;
 	background-color: #262C33;
 	font-weight: 300;
 }
@@ -559,9 +561,24 @@ blockquote p {
 }
 
 .about-pic {
-	margin-top: 1em;
-	background: url("../images/sean.jpg") no-repeat center center / cover; 
+	
+	background: url("../images/sean.jpg") no-repeat top center / cover; 
 }
+
+@media only screen and (max-width: 60em) {
+
+.about-pic {
+	height: 29em;
+	}
+}
+
+
+
+.space-up {
+	margin-top: 1em;
+}
+
+
 
 .box {
 	text-align: center;
