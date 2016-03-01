@@ -1,3 +1,6 @@
-var $btn = $('.btn-video');
+$('.nav').localScroll();
 
-$('.scroll-down').localScroll();
+
+// var $btn = $('.btn-video');
+
+// $('.scroll-down').localScroll();

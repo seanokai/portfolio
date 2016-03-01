@@ -90,16 +90,7 @@ a:focus {
 
 a {
 	text-decoration: none;
-	color: #F78D1F;
-}
-
-a,
-a:link 
-a:visited {
-	
-	color: #594623;
-	transition: all 750ms linear;
-	
+	color: #48515B;
 }
 
 
@@ -107,8 +98,19 @@ a:hover,
 a:focus;
 a:active {
 
+	background-color: #48515B;
 	color: #B47501;
+	transition: all 500ms linear;
 
+}
+
+a,
+a:link 
+a:visited {
+	
+
+	color: #594623;
+	
 }
 
 
@@ -116,6 +118,8 @@ nav a:visited {
 
 	color: #AA8857; 
 }
+
+
 
 
 
@@ -150,6 +154,7 @@ h4 {
 	border: 2px solid #000;
 }
 */
+
 .aboutme {
 
 	font-weight: 300;
@@ -174,8 +179,12 @@ h4 {
 .techprof {
 
 	text-align: center;
-	color: #FADAB9;
+	color: #48515B;
 	font-weight: 300;
+}
+
+.btn:hover {
+	transition: all 600ms linear;
 }
 
 
@@ -248,7 +257,7 @@ nav a {
 	border: 1px solid #313131;
 	text-decoration: none;
 	font-family: 'Merriweather', serif; font-weight: 300;
-	color: #AA8857;
+	color: #FFC562;
 }
 
 
@@ -468,18 +477,31 @@ background-color: #1B2026;
 
 .title-box {
 
-	background-color: #F6F6F7;
+	background-color: #fff;
 	padding: 1em;
 	text-align: center;
+	border-radius: 10px;
+  	border: 3px solid #717D8A;
 }
 
 .inside {
-	margin-right: 0.5rem;
-    margin-left: 0.5rem;
+	margin-right: 8rem;
+    margin-left: 8rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
+.title-box:hover {
+
+	background-color: #717D8A;
+	color: #fff;
+	padding: 1em;
+	text-align: center;
+	border-radius: 5px 20px 5px;
+  	border: 3px solid #FFC766;
+  	transition: all 600ms linear;
+
+}
 
 
 blockquote {
@@ -498,13 +520,13 @@ blockquote p {
 .blockquotepara1 {
 
 	font-family: 'Merriweather', serif; font-weight: 300;
-	border-bottom:  3px solid #FFC766;
+	border-bottom:  3px solid #C59007;
 	font-style: normal;	
 }
 
 .blockquotepara {
 
-	border-top:  3px solid #7F8FA1;
+	border-top:  3px solid #C59007;
 	font-style: normal;	
 }
 
@@ -512,8 +534,16 @@ blockquote p {
 	
 	padding-top: 6rem;
 	padding-bottom: 7rem;
-	background-color: #262C33;
+	background-color: #C59007;
 	font-weight: 300;
+}
+
+.motion-para {
+
+	font-style: normal;
+	font-weight: 300;
+	color: #FFC562;
+	padding-top: 1em;
 }
 
 .headcent {
@@ -528,6 +558,22 @@ blockquote p {
 .reel{
 	text-align: center;
 }
+
+.title-box-tight {
+
+	margin: 0;
+	margin-bottom: -0.3rem;
+	font-weight: 300;
+}
+
+@media only screen and (max-width: 48em) {
+
+	.inside {
+		margin-left: 5rem;
+		margin-right: 5rem;
+	}
+
+	}
 
 
 
@@ -575,7 +621,11 @@ blockquote p {
 
 
 .space-up {
-	margin-top: 1em;
+	padding-bottom: 1em;
+}
+
+.video-bg{
+	background-color: #9BA3AB;
 }
 
 
