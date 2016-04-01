@@ -199,6 +199,18 @@ header {
 
 }
 
+.masthead {
+	padding: 1em;
+	background: #000531 url("../images/holtz/holtz-bg.jpg");
+	background-size: cover;
+}
+
+.masthead-mandela {
+	background: url("../images/mandella/man-bg.jpg") no-repeat top right / cover;
+	padding: 1em;
+
+}
+
 /*.back-image {
 
 	background:	
