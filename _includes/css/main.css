@@ -211,6 +211,15 @@ header {
 
 }
 
+.masthead-broadcast {
+	background: url("/images/arsenal/ars-bg.jpg") no-repeat / cover;
+	padding: 1em;
+}
+
+.man-space{
+	padding-bottom: 2rem;
+}
+
 /*.back-image {
 
 	background:	
