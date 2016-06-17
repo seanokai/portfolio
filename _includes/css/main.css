@@ -211,6 +211,12 @@ header {
 
 }
 
+.masthead-pvf {
+	background: url("../images/pvf/pvf-bg-frame.jpg") no-repeat top right / cover;
+	padding: 1em;
+
+}
+
 .masthead-broadcast {
 	background: url("/images/arsenal/ars-bg.jpg") no-repeat / cover;
 	padding: 1em;
