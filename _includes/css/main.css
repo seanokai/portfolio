@@ -217,12 +217,23 @@ header {
 
 }
 
+.masthead-mockup-bg {
+	background: url("../images/mockup/mockup-bg.jpg") no-repeat top right / cover;
+	padding: 1em;
+
+}
+
 .masthead-broadcast {
-	background: url("/images/arsenal/ars-bg.jpg") no-repeat / cover;
+	background: url("../images/arsenal/ars-bg.jpg") no-repeat / cover;
 	padding: 1em;
 }
 
-.masthead-
+.masthead-quotes {
+	background: url("../images/quotes/quote-bg.jpg") no-repeat top right / cover;
+	padding: 1em;
+}
+
+
 
 .man-space{
 	padding-bottom: 2rem;
