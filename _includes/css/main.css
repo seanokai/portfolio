@@ -224,12 +224,17 @@ header {
 }
 
 .masthead-broadcast {
-	background: url("../images/arsenal/ars-bg.jpg") no-repeat / cover;
+	background: url("../images/arsenal/broadcast-bg.jpg") no-repeat top right / cover;
 	padding: 1em;
 }
 
 .masthead-quotes {
 	background: url("../images/quotes/quote-bg.jpg") no-repeat top right / cover;
+	padding: 1em;
+}
+
+.masthead-skin {
+	background: url("../images/skin/skin-bg.jpg") no-repeat top right / cover;
 	padding: 1em;
 }
 
