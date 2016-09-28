@@ -120,6 +120,13 @@ nav a:visited {
 }
 
 
+.port-push {
+
+	margin-top: 2em;
+}
+
+
+
 
 
 
@@ -203,6 +210,12 @@ header {
 	padding: 1em;
 	background: #000531 url("../images/holtz/holtz-bg.jpg");
 	background-size: cover;
+}
+
+.mastheader-rcgs {
+	background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover;
+	padding: 1em;
+
 }
 
 .mastheader-mandela {
@@ -633,7 +646,7 @@ blockquote p {
 
 .portfolio-studies-2 {
     color: #d6d5d4;
-    background-image: url("../images/mandella/man-1.png");
+    background-image: url("../images/cangeo/bergman-port-pic.png");
     background-color: $black;
     height: 293px;
     background-position: 40% 52%;
@@ -656,7 +669,7 @@ blockquote p {
 .portfolio-studies-4 {
 
     color: #d6d5d4;
-    background-image: url("../images/skin/skin-1.png");
+    background-image: url("../images/skin/stack-update.jpg");
     background-color: $black;
     height: 293px;
     background-position: center center;
@@ -667,7 +680,7 @@ blockquote p {
 .portfolio-studies-5 {
 
     color: #d6d5d4;
-    background-image: url("../images/quotes/quote-1.png");
+    background-image: url("../images/quotes/quotebook-main.jpg");
     background-color: $black;
     height: 293px;
     background-position: center center;
@@ -679,11 +692,11 @@ blockquote p {
 .portfolio-studies-6 {
 
     color: #d6d5d4;
-    background-image: url("../images/mandella/man-1.png");
+    background-image: url("../images/pvf/pvf-main.png");
     background-color: $yellow;
     height: 289px;
     background-position: 52% center;
-    background-size: 100vw auto;
+    background-size: 110vw auto;
     background-repeat: no-repeat;
 
 }
@@ -691,22 +704,22 @@ blockquote p {
 .portfolio-studies-7 {
 
     color: #d6d5d4;
-    background-image: url("../images/mandella/man-1.png");
+    background-image: url("../images/gfs/gfs-main.png");
     background-color: $black;
     height: 289px;
     background-position: 52% center;
-    background-size: 100vw auto;
+    background-size: 80vw auto;
     background-repeat: no-repeat;
 }
 
 .portfolio-studies-8 {
 
     color: #d6d5d4;
-    background-image: url("../images/mandella/man-1.png");
+    background-image: url("../images/wwf/wwf-main.png");
     background-color: $yellow;
     height: 289px;
     background-position: 52% center;
-    background-size: 100vw auto;
+    background-size: 110vw auto;
     background-repeat: no-repeat;
 
 }
@@ -842,23 +855,26 @@ blockquote p {
 
     .portfolio-studies-2 {
         background-size: 100vw auto;
-        background-position: 40% center;
+        background-position: 40% bottom;
     }
 
     .portfolio-studies-3 {
-        background-size: 225vw auto;
+        background-size: 100vw auto;
         background-position: 50% center;
     }
 
     .portfolio-studies-4 {
-        background-size: 115vw auto;
-        background-position: 85%;
+        background-size: 70vw auto;
+        background-position: center center;
     }
 
     .portfolio-studies-5 {
-        background-size: 150vw auto;
-        background-position: 85%;
+        background-size: 130vw auto;
+        background-position: center center;
+
     }
+
+
 
 
 
@@ -875,25 +891,45 @@ blockquote p {
     }
 
      .portfolio-studies-2 {
-        background-size: 30vw auto;
-        background-position: 40% center;
+        background-size: 70vw auto;
+        background-position: 40% bottom;
     }
 
     .portfolio-studies-3 {
-        background-size: 190vw auto;
+        background-size: 50vw auto;
         background-position: 52% center;
     }
 
     .portfolio-studies-4 {
-        background-size: 120vw auto;
+        background-size: 44vw auto;
         background-position: 85%;
     }
 
     .portfolio-studies-5 {
-        background-size: 85vw auto;
+        background-size: 110vw auto;
         background-position: 50%;
         height: 340px;
     }
+
+    .portfolio-studies-6 {
+    background-position: center bottom;
+    background-size: 40vw auto;
+
+}
+
+.portfolio-studies-7 {
+
+    background-position: 52% center;
+    background-size: 40vw auto;
+  
+}
+
+    .portfolio-studies-8 {
+    background-position: 52% center;
+    background-size: 50vw auto;
+    
+
+}
 
 
 	}
@@ -961,8 +997,8 @@ blockquote p {
         }
 
          .portfolio-studies-2 {
-        background-size: 30vw auto;
-        background-position: 58% center;
+        background-size: 50vw auto;
+        background-position: 50% bottom;
         height: 293px;
     }
 
@@ -973,7 +1009,7 @@ blockquote p {
     }
 
     .portfolio-studies-4 {
-        background-size: 80vw auto;
+        background-size: 30vw auto;
         background-position: 85%;
         height: 293px;
     }
@@ -981,12 +1017,39 @@ blockquote p {
 
 
     .portfolio-studies-5 {
-            background-size: 46vw auto;
+            background-size: 100vw auto;
             background-position: 50%;
             height: 293px;
         }
 
+    .portfolio-studies-6 {
+    background-position: 52% center;
+    background-size: 36vw auto;
 
+}
+
+
+.portfolio-studies-7 {
+
+    background-position: 52% center;
+    background-size: 35vw auto;
+  
+}
+
+    .portfolio-studies-8 {
+    background-position: 52% center;
+    background-size: 32vw auto;
+    
+
+}
+
+
+
+    img.resize {
+
+	width: 80%;
+	padding-left: 17rem;
+}
 
 
 
