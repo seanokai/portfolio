@@ -225,7 +225,7 @@ header {
 }
 
 .mastheader-pvf {
-	background: url("../images/pvf/pvf-bg-frame.jpg") no-repeat top right / cover;
+	background: url("../images/pvf/pvf-bg-frame.png") no-repeat top right / cover;
 	padding: 1em;
 
 }
@@ -247,10 +247,19 @@ header {
 }
 
 .mastheader-skin {
-	background: url("../images/skin/skin-bg.jpg") no-repeat top right / cover;
+	background: url("../images/skin/skin-across.png") no-repeat top right / cover;
 	padding: 1em;
 }
 
+.mastheader-gfs {
+	background: url("../images/gfs/gfs-main-frame.png") no-repeat top right / cover;
+	padding: 1em;
+}
+
+.mastheader-wwf {
+	background: url("../images/wwf/wwf-frame.png") no-repeat top right / cover;
+	padding: 1em;
+}
 
 
 .man-space{
@@ -604,6 +613,8 @@ blockquote p {
 	padding-top: 1em;
 }
 
+
+
 .headcent {
 
 	text-align: center;
@@ -629,6 +640,10 @@ blockquote p {
 }
 
 
+.image-tight{
+
+	height: 200px;
+}
 
 
 
@@ -891,8 +906,8 @@ blockquote p {
     }
 
      .portfolio-studies-2 {
-        background-size: 70vw auto;
-        background-position: 40% bottom;
+        background-size: 55vw auto;
+        background-position: 40% center bottom;
     }
 
     .portfolio-studies-3 {
@@ -1070,7 +1085,7 @@ blockquote p {
 }
 
 .video-bg{
-	background-color: #9BA3AB;
+	background-color: #fff;
 }
 
 
