@@ -125,6 +125,11 @@ nav a:visited {
 	margin-top: 2em;
 }
 
+.port-push2 {
+
+	margin-bottom: 2em;
+}
+
 
 
 
@@ -486,6 +491,15 @@ background-color: #1B2026;
 
 }
 
+
+.piece-text3{
+
+	text-align: center;
+	padding: 1em;
+	padding-top: 9em;
+	font-weight: 300;
+
+}
 .contactme {
 	color: #7F8FA1;
 	text-align: center;
@@ -796,11 +810,13 @@ blockquote p {
 
 .piece-title {
     font-family: sans-serif;
-    color: $yellow;
+    color: #fff;
 }
 
 .piece-description {
     font-family: sans-serif;
+    font-weight: 300;
+    color: #ffce72;
 }
 
 .case-study {
@@ -864,7 +880,7 @@ blockquote p {
 @media only screen and (min-width: 25em){
 
  .portfolio-studies-1 {
-        background-size: 100vw auto;
+        background-size: 78vw auto;
         background-position: 85% auto;
     }
 
@@ -901,13 +917,14 @@ blockquote p {
 @media only screen and (min-width: 38em){
 
 	.portfolio-studies-1 {
-        background-size: 30vw auto;
+        background-size: 50vw auto;
         background-position: 85%;
     }
 
      .portfolio-studies-2 {
         background-size: 55vw auto;
         background-position: 40% center bottom;
+
     }
 
     .portfolio-studies-3 {
