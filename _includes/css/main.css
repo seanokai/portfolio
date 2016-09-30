@@ -876,6 +876,46 @@ blockquote p {
 }
 
 
+@media only screen and (min-width: 10em){
+
+ .portfolio-studies-1 {
+        background-size: 120vw auto;
+        background-position: 85% auto;
+    }
+
+    .portfolio-studies-2 {
+        background-size: 120vw auto;
+        background-position: 40% bottom;
+    }
+
+    .portfolio-studies-3 {
+        background-size: 100vw auto;
+        background-position: 50% center;
+    }
+
+    .portfolio-studies-4 {
+        background-size: 100vw auto;
+        background-position: center center;
+    }
+
+    .portfolio-studies-5 {
+        background-size: 130vw auto;
+        background-position: center auto;
+
+    }
+
+    .portfolio-studies-6 {
+        background-size: 130vw auto;
+        background-position: center auto;
+
+    }
+
+    .portfolio-studies-10 {
+        background-size: 130vw auto;
+        background-position: center auto;
+
+    }
+
 
 @media only screen and (min-width: 25em){
 
