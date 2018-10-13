@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  
+
   font: normal 100%/1.5 'Merriweather',serif;
 }
 
@@ -105,18 +105,18 @@ a:active {
 }
 
 a,
-a:link 
+a:link
 a:visited {
-	
+
 
 	color: #594623;
-	
+
 }
 
 
-nav a:visited { 
+nav a:visited {
 
-	color: #AA8857; 
+	color: #AA8857;
 }
 
 
@@ -147,7 +147,7 @@ nav a:visited {
 
 h1 {
 	margin: 0;
-	font-family: 'Merriweather', serif; font-weight: 700; 
+	font-family: 'Merriweather', serif; font-weight: 700;
 }
 
 h2,
@@ -175,7 +175,7 @@ h4 {
 }
 
 .aboutmetwo {
-	
+
 	font-weight: 300;
 	color: #FADAB9;
 	text-align: center;
@@ -184,7 +184,7 @@ h4 {
 .picturespace {
 
 	margin-bottom: 2px;
-	padding-left: 2px; 
+	padding-left: 2px;
 	padding-right: 2px;
 }
 
@@ -207,7 +207,7 @@ header {
 	background-color: #B9BEC3;
 	text-align: center;
 	padding: 1em 0 1px;
-	position: relative;	
+	position: relative;
 
 }
 
@@ -273,7 +273,7 @@ header {
 
 /*.back-image {
 
-	background:	
+	background:
 	 url("../images/header-bg.jpg") no-repeat left bottom / cover;
 
 }
@@ -282,7 +282,7 @@ header {
 
 .hero {
 
-	background:	
+	background:
 	 url("../images/header-bg.jpg") no-repeat center center / cover;
 	padding: 3.5em 0;
 }
@@ -330,7 +330,7 @@ nav li {
 }
 
 nav a {
-	display: block; 
+	display: block;
 	padding: 0.5em 0.5em;
 	border-radius: 8px;
 	border: 1px solid #313131;
@@ -427,7 +427,7 @@ background-color: #1B2026;
 
 @media only screen and (min-width: 27em) {
 
-	
+
     .nav {
     	width: 100%;
     }
@@ -609,17 +609,17 @@ blockquote p {
 
 	font-family: 'Merriweather', serif; font-weight: 300;
 	border-bottom:  3px solid #C59007;
-	font-style: normal;	
+	font-style: normal;
 }
 
 .blockquotepara {
 
 	border-top:  3px solid #C59007;
-	font-style: normal;	
+	font-style: normal;
 }
 
 .blockquoteabout {
-	
+
 	padding-top: 6rem;
 	padding-bottom: 7rem;
 	background-color: #f68d22;
@@ -1000,13 +1000,13 @@ blockquote p {
 
     background-position: 52% center;
     background-size: 40vw auto;
-  
+
 }
 
     .portfolio-studies-8 {
     background-position: 52% center;
     background-size: 50vw auto;
-    
+
 
 }
 
@@ -1062,8 +1062,8 @@ blockquote p {
 }
 
 .about-pic {
-	
-	background: url("../images/sean.jpg") no-repeat top center / cover; 
+
+	background: url("../images/sean-profile.jpg") no-repeat top center / cover; 
 }
 
 
@@ -1112,13 +1112,13 @@ blockquote p {
 
     background-position: 52% center;
     background-size: 35vw auto;
-  
+
 }
 
     .portfolio-studies-8 {
     background-position: 52% center;
     background-size: 32vw auto;
-    
+
 
 }
 
@@ -1202,4 +1202,3 @@ blockquote p {
 
 	background-color: #FFC253;
 }
-
