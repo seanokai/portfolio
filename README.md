@@ -34,8 +34,8 @@ I plan to have a three sections each showing various projects Ive done. I tend t
 
 ## Things to do righ now
 - [x] Write out readme.md.
-- [ ] **Sketch** out the layout of website.
-- [ ] **Curate** art work/ videos.
-- [ ] execute a *reasonable* layout and commit.
+- [x] **Sketch** out the layout of website.
+- [x] **Curate** art work/ videos.
+- [x] execute a *reasonable* layout and commit.
 
 [Seanzokai] (https://seanzokai.ca)
