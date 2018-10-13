@@ -1061,7 +1061,7 @@ blockquote p {
 	background-color: ;
 }
 
-.about-pic {
+.about-pic-image {
 
 	background: url("../images/sean-image.jpg") no-repeat top center / cover;
 }
@@ -1137,7 +1137,7 @@ blockquote p {
 
 @media only screen and (max-width: 60em) {
 
-.about-pic {
+.about-pic-image {
 	height: 29em;
 	}
 }
