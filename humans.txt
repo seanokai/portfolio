@@ -5,14 +5,13 @@
 Designer & Developer: Sean Zulu Okai <hello@seanzokai.ca>
 site: https://seanzokai.ca
 Github: https://github.com/seanokai/portfolio
-Twitter: @Piclava
-Location: Ottawa, Canada
+Twitter:
+Location: Canada
 
 ---
 
 # THANKS
-
-Thomas J Bradley (The coding god)
+TJB
 
 ---
 
@@ -24,7 +23,7 @@ Thomas J Bradley (The coding god)
 - Git + Github
 = Jekyll
 - Ruby
--Markdown
+- Markdown
 
 
 ## Hosting

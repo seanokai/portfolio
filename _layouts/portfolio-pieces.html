@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}} · {% endif %} Seanzokai Portfolio · Works · Ottawa · Canada</title>
+  <title>{% if page.title %}{{page.title}} · {% endif %} Seanzokai Portfolio</title>
   <link href="{{site.baseurl}}/css/portfolio.css" rel="stylesheet">
   <meta name="description" content="{{page.meta}}">
   <meta name="handheldfriendly" content="true">
@@ -15,22 +15,22 @@
 
 <body>
 
-	<header class=" {{page.mastheadClass}} back-image">
+	<header class=" {{page.mastheadClass}}">
 
-		<div class="logo">
+		<div class="unit unit-s-1-3 unit-l-2-3">
 			<a href="{{site.baseurl}}/index.html">
-				<img class="img-flex" src="{{site.baseurl}}/images/logo.png" alt="sean okai logo">
+				<img class="img-flex logo" src="{{site.baseurl}}/images/logo-home.png" alt="sean okai logo">
 			</a>
 		</div>
 
-		{% include nav-2.html %}
+	     {% include main-navigation-2.html %}
 
 	</header>
 
 
-	<div class="back">
-	<a href="{{site.baseurl}}/index.html" alt=""><img src="{{site.baseurl}}/images/back.svg"></a>
-	</div>
+  <div class="back">
+  <a href="{{site.baseurl}}/index.html" alt=""><img src="{{site.baseurl}}/images/back.svg"></a>
+  </div>
 
 
 	{{content}}
