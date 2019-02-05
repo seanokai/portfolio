@@ -41,7 +41,7 @@ fieldset, pre, table {
 
 .droid{
 
-  font-family: 'Merriweather', serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 2.2807rem;
   line-height: 1.3154;
 }
@@ -223,4 +223,8 @@ sub {
 h1, h2, h3, h4, h5, h6,
 .font-brand {
   font-family: 'Merriweather', serif;
+}
+
+h7 {
+  font-family: 'Titillium Web', sans-serif;
 }

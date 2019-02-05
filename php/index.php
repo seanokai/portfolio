@@ -1,11 +1,10 @@
 <?php
-
     $name = $_Post['name'];
     $visitor_email = $_Post['email'];
     $message = $_Post['message'];
 
 
-    $email_from = 'seanzokai.com';
+    $email_from = 'hello@seanokai.com';
 
     $email_subject = "New Hire Form Submission"
 
@@ -23,10 +22,6 @@
     mail($to,$email_subject,$email_body,$headers);
 
     header("Location: index.html");
-
-
-
-
 
 
 ?>

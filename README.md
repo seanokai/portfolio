@@ -9,7 +9,7 @@ user: sean
 
 A website showcasing my graphic design portfolio pieces and videos.
 
-I plan to have a three sections each showing various projects Ive done. I tend to deal with 3d, typography, photography and videography. Much of my work as been accumulated from my design school at algonquin college.
+I plan to have a three sections each showing various projects Ive done. I tend to deal with 3d, typography, photography and videography, UX/UI and web development. Much of my work has been accumulated from my vast experience in different media fields.
 
 *From time to time I will be coming back to update my readme.md*
 
@@ -29,6 +29,8 @@ I plan to have a three sections each showing various projects Ive done. I tend t
 	- Photography
 	- 3-dimensional
 	- Layout
+  - UI/UX
+  - Web dev
 
 - Grid layout/ selection
 
@@ -37,5 +39,6 @@ I plan to have a three sections each showing various projects Ive done. I tend t
 - [x] **Sketch** out the layout of website.
 - [x] **Curate** art work/ videos.
 - [x] execute a *reasonable* layout and commit.
+- []  Add crystalized pieces.
 
 [Seanzokai] (https://seanzokai.ca)
