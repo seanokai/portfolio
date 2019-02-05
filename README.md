@@ -39,6 +39,6 @@ I plan to have a three sections each showing various projects Ive done. I tend t
 - [x] **Sketch** out the layout of website.
 - [x] **Curate** art work/ videos.
 - [x] execute a *reasonable* layout and commit.
-- []  Add crystalized pieces.
+- [ ]  Add crystalized pieces.
 
 [Seanzokai] (https://seanzokai.ca)
