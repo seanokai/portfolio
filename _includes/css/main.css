@@ -383,7 +383,7 @@ header {
 }
 
 .js-dipper-animate {
-  opacity: 1;
+  opacity: 0.3;
 }
 
 .thin {
@@ -1044,6 +1044,7 @@ figcaption {
   position: relative;
 }
 
+
 .btn-hire-div {
   text-align: center;
   margin: 2em;
@@ -1062,10 +1063,17 @@ figcaption {
   transition: all 200ms linear;
 }
 
-.btn-hire:hover {
+.email-app {
+  visibility: visible;
+}
+
+.btn-hire:hover  {
   background: #000;
   color: #fcdc32;
 }
+
+
+
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] {
   font: 400 12px/16px "Open Sans", Helvetica, Arial, sans-serif;
