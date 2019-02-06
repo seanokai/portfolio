@@ -30,6 +30,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   font-family: normal 100%/1.5 'Titillium Web', sans-serif;
+  scroll-behavior: smooth;
 }
 
 *, *::before, *::after {
