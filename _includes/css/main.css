@@ -1478,11 +1478,11 @@ fieldset {
 
   .email-app {
 visibility: hidden;
-
   }
 
   .btn-hire:hover + .email-app {
     visibility: visible;
+    opacity: 0.5
   }
 }
 
