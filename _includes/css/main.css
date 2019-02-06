@@ -77,7 +77,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #c5c5c5;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -1189,7 +1189,7 @@ fieldset {
 
 .mega {
   color: #fff;
-  z-index: 500;
+  z-index: 5;
 }
 
 
