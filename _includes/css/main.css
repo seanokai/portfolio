@@ -1064,7 +1064,7 @@ figcaption {
 }
 
 .email-app {
-    visibility: visible;
+
     transition: all 200ms linear;
     opacity: 0.3;
     transition: all 200ms linear;
@@ -1482,7 +1482,7 @@ visibility: hidden;
 
   .btn-hire:hover + .email-app {
     visibility: visible;
-    opacity: 0.5
+    opacity: 0.5;
   }
 }
 
