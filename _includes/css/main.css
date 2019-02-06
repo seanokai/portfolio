@@ -1065,9 +1065,7 @@ figcaption {
 
 .email-app {
 
-    transition: all 200ms linear;
     opacity: 0.3;
-    transition: all 200ms linear;
 }
 
 .btn-hire:hover  {
@@ -1477,11 +1475,14 @@ fieldset {
   }
 
   .email-app {
-visibility: hidden;
+display: none;
   }
 
   .btn-hire:hover + .email-app {
-    visibility: visible;
+    position: absolute;
+    left: 20%;
+    Right: 20%;
+    display: block;
     opacity: 0.5;
   }
 }
