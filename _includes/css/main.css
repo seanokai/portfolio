@@ -85,7 +85,7 @@ h6 {
 }
 
 footer {
-  font-family: 'Merriweather', serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 300;
 }
 
@@ -209,14 +209,14 @@ a:link a:visited {
 
 h1 {
   margin: 0;
-  font-family: 'Merriweather', serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
 }
 
 h2,
 h3,
 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 .sokai {
@@ -387,7 +387,7 @@ header {
 }
 
 .thin {
-  font-weight: 900;
+  font-weight: 600;
 }
 
 .contact-add {
@@ -1064,16 +1064,16 @@ figcaption {
 }
 
 .email-app {
-  visibility: visible;
+    visibility: visible;
+    transition: all 200ms linear;
+    opacity: 0.3;
+    transition: all 200ms linear;
 }
 
 .btn-hire:hover  {
   background: #000;
   color: #fcdc32;
 }
-
-
-
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] {
   font: 400 12px/16px "Open Sans", Helvetica, Arial, sans-serif;
@@ -1189,7 +1189,9 @@ fieldset {
 
 .mega {
   color: #fff;
+  z-index: 500;
 }
+
 
 @media only screen and (min-width: 10em) {
   .portfolio-studies-1 {
@@ -1226,6 +1228,7 @@ fieldset {
     background-size: 130vw auto;
     background-position: center auto;
   }
+
 }
 
 @media only screen and (min-width: 20em) {
@@ -1471,6 +1474,15 @@ fieldset {
   .case-study:hover .masthead {
     background-color: #00000075;
     opacity: 1;
+  }
+
+  .email-app {
+visibility: hidden;
+
+  }
+
+  .btn-hire:hover + .email-app {
+    visibility: visible;
   }
 }
 
