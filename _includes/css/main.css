@@ -389,7 +389,6 @@ header {
 
 .thin {
   font-weight: 600;
-  padding-top: 20px;
 }
 
 .contact-add {
@@ -1391,6 +1390,11 @@ fieldset {
 
   .about-sean {
     padding: 3.5em 20% 3.5em;
+  }
+
+  .thin {
+    font-weight: 600;
+    padding-top: 20px;
   }
 }
 
