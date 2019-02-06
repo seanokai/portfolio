@@ -1020,7 +1020,7 @@ figcaption {
 }
 
 .about-sean {
-  padding: 1em 20% 1em;
+  padding: 1em 10% 1em;
   background-color: #ffec4c;
 }
 
@@ -1053,7 +1053,7 @@ figcaption {
 }
 
 .btn-hire {
-  padding: 0.5em 3em;
+  padding: 0.5em 2em;
   margin-top: 2em;
   margin-bottom: 2em;
   color: #000;
@@ -1475,6 +1475,10 @@ fieldset {
   .case-study:hover .masthead {
     background-color: #00000075;
     opacity: 1;
+  }
+
+  .btn-hire {
+    padding: 0.5em 3em;
   }
 
   .email-app {
