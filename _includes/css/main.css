@@ -389,6 +389,7 @@ header {
 
 .thin {
   font-weight: 600;
+  padding-top: 20px;
 }
 
 .contact-add {
@@ -1067,6 +1068,7 @@ figcaption {
 .email-app {
 
     opacity: 0.3;
+    padding-bottom: 10px;
 }
 
 .btn-hire:hover  {
