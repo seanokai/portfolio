@@ -100,7 +100,7 @@ figure {
 }
 
 .navi {
-  padding-left: 8rem;
+margin-left: 67%;
 }
 
 .grid {
@@ -1196,6 +1196,11 @@ fieldset {
   z-index: 5;
 }
 
+.nav-space {
+padding: 0 0em;
+
+}
+
 
 @media only screen and (min-width: 10em) {
   .portfolio-studies-1 {
@@ -1349,7 +1354,6 @@ fieldset {
 
   .logo {
     max-width: 200px;
-    margin-right: 600px;
   }
 
   .portfolio-tag {

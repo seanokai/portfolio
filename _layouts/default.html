@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-ca">
+
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}} · {% endif %}Seanzokai Portfolio · Designer · Ottawa · Canada{% if page.titleAfter %} · {{page.titleAfter}}{% endif %} </title>
@@ -15,105 +16,103 @@
 <body>
 
 
-	<header class="grid masthead hero island" id="top">
+  <header class="grid masthead hero island" id="top">
 
-		<ul class="skip-links">
-			<li><a href="#nav">Skip to navigation</a></li>
-			<li><a href="#main">Skip to main</a></li>
-			<li><a href="#contact">Skip to contact</a></li>
-		</ul>
+    <ul class="skip-links">
+      <li><a href="#nav">Skip to navigation</a></li>
+      <li><a href="#main">Skip to main</a></li>
+      <li><a href="#contact">Skip to contact</a></li>
+    </ul>
 
 
 
-		<div class="unit unit-s-1-3 unit-l-2-3">
+    <div class="unit unit-l-1-3">
 
 
       <a href="index.html">
         <img class="img-flex logo" src="{{site.baseurl}}/images/logo-home.png" alt="sean okai logo">
       </a>
 
-		<!--	<h3 class="sokai">SEAN <em>OKAI</em></h3> -->
 
-		</div>
+    </div>
+    <div class="unit unit-s-1-3 unit-l-2-3">
+      {% include main-navigation.html %}
 
-{% include main-navigation.html %}
+    </div>
 
-<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1 script-type">
-  <h8>I
-  <span
-     class="txt-rotate"
-     data-period="450"
-     data-rotate='[ "am Sean", "Market...", "Code...", "Design...", "Think...", "then repeat!" ]'></span>
+    <div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1 script-type">
+      <h8>I
+        <span class="txt-rotate" data-period="450" data-rotate='[ "am Sean", "Market...", "Code...", "Design...", "Think...", "then repeat!" ]'></span>
 
-</h8>
-</div>
+      </h8>
+    </div>
 
 
-<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1 hero-p">
-<p>
-  A media marketing enthusiast with a zeal for design problem-solving.
-</p>
+    <div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1 hero-p">
+      <p>
+        A media marketing enthusiast with a zeal for design problem-solving.
+      </p>
 
-</div>
+    </div>
 
-<div class=" unit unit-xs-1-2 unit-s-1 unit-m-1 unit-l-1 skills">
+    <div class=" unit unit-xs-1-2 unit-s-1 unit-m-1 unit-l-1 skills">
 
-<figure class="design-icon unit unit-s-1-4 unit-m-1-4">
-<img class="skill-icon img-flex" src="../images/g-design-skill.svg" alt="design-logo" style="width:50%">
-<figcaption>
-  <p>Design</p>
-</figcaption>
-
-
-</figure>
-<figure class="design-icon unit unit-xs-1-2 unit-s-1-4 unit-m-1-4">
-<img class="skill-icon" src="../images/ui-ux-skill.svg" alt="ui/ux skill logo" style="width:50%">
-<figcaption>
-  <p>UI/UX</p>
-</figcaption>
+      <figure class="design-icon unit unit-s-1-4 unit-m-1-4">
+        <img class="skill-icon img-flex" src="../images/g-design-skill.svg" alt="design-logo" style="width:50%">
+        <figcaption>
+          <p>Design</p>
+        </figcaption>
 
 
-</figure>
-<figure class="design-icon unit unit-xs-1-2 unit-s-1-4 unit-m-1-4 ">
-<img class="skill-icon" src="../images/video-skill.svg" alt="video skill logo" style="width:50%">
-<figcaption>
-  <p>Video</p>
-</figcaption>
-</figure>
+      </figure>
+      <figure class="design-icon unit unit-xs-1-2 unit-s-1-4 unit-m-1-4">
+        <img class="skill-icon" src="../images/ui-ux-skill.svg" alt="ui/ux skill logo" style="width:50%">
+        <figcaption>
+          <p>UI/UX</p>
+        </figcaption>
 
 
-<figure class="design-icon unit unit-xs-1-2 unit-s-1-4 unit-m-1-4">
-<img class="skill-icon" src="../images/web-dev-skill.svg" alt=" web dev skill logo" style="width:50%">
-<figcaption>
-  <p>Web</p>
-</figcaption>
-</figure>
+      </figure>
+      <figure class="design-icon unit unit-xs-1-2 unit-s-1-4 unit-m-1-4 ">
+        <img class="skill-icon" src="../images/video-skill.svg" alt="video skill logo" style="width:50%">
+        <figcaption>
+          <p>Video</p>
+        </figcaption>
+      </figure>
 
 
-</div>
+      <figure class="design-icon unit unit-xs-1-2 unit-s-1-4 unit-m-1-4">
+        <img class="skill-icon" src="../images/web-dev-skill.svg" alt=" web dev skill logo" style="width:50%">
+        <figcaption>
+          <p>Web</p>
+        </figcaption>
+      </figure>
 
 
-	</header>
+    </div>
 
-	<main>
+
+  </header>
+
+  <main>
 
 
 
-	{{content}}
+    {{content}}
 
 
 
 
-</main>
+  </main>
 
-	<footer class="gutter footer">
-		 <p>2019 © Sean Okai • All Rights Reserved.</p>
-	</footer>
+  <footer class="gutter footer">
+    <p>2019 © Sean Okai • All Rights Reserved.</p>
+  </footer>
 
-<script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/1.4.0/jquery.localScroll.min.js"></script>
-<script src="js/main.js"></script>
+  <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/1.4.0/jquery.localScroll.min.js"></script>
+  <script src="js/main.js"></script>
 </body>
 
 </html>
