@@ -1024,7 +1024,7 @@ figcaption {
 
 .about-sean {
   padding: 1em 10% 1em;
-  background-color: #ffec4c;
+  background-image: linear-gradient(to right bottom, #ffec4c, #f7e655);
 }
 
 .about-potrait {
