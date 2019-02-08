@@ -1189,6 +1189,8 @@ fieldset {
 .video-tag {
   text-align: center;
   text-decoration: none;
+  padding: 2em 0;
+
 }
 
 .mega {
@@ -1201,8 +1203,24 @@ padding: 0 0em;
 
 }
 
+.wrapper {
+  max-width: 670px;
+
+}
+
+.reel-text {
+  padding: 0;
+}
+
+.reel-skill {
+  display: block;
+  list-style: none;
+  padding: 0;
+}
+
 
 @media only screen and (min-width: 10em) {
+
   .portfolio-studies-1 {
     background-size: 120vw auto;
     background-position: 85% auto;
@@ -1241,12 +1259,14 @@ padding: 0 0em;
 }
 
 @media only screen and (min-width: 20em) {
+
   header {
     height: 38em;
   }
 }
 
 @media only screen and (min-width: 25em) {
+
   .portfolio-studies-1 {
     background-size: 78vw auto;
     background-position: 85% auto;
@@ -1281,6 +1301,11 @@ padding: 0 0em;
     font-size: 3.5em;
   }
 
+.frameborder {
+
+    frameborder: 0;
+  }
+
   .notify-me {
     height: 15vh;
   }
@@ -1302,6 +1327,7 @@ padding: 0 0em;
 }
 
 @media only screen and (min-width: 38em) {
+
   .portfolio-studies-1 {
     background-size: 50vw auto;
     background-position: 85%;
@@ -1365,10 +1391,21 @@ padding: 0 0em;
 
   .video-tag {
     margin: 0;
-    padding: 1em 4em 1em 0;
-    text-align: right;
+    text-align: center;
     text-decoration: none;
   }
+
+  .reel-title {
+    margin: 0;
+
+  }
+
+  .reel-text {
+
+    padding: 0 0 0 1em;
+  }
+
+
 
   .script-type {
     color: #ffeb44;
@@ -1378,6 +1415,7 @@ padding: 0 0em;
 }
 
 @media only screen and (max-width: 48em) {
+
   .inside {
     margin-left: 5rem;
     margin-right: 5rem;
@@ -1385,6 +1423,7 @@ padding: 0 0em;
 }
 
 @media only screen and (min-width: 53em) {
+
   .hero-p p {
     text-align: center;
     display: block;
@@ -1405,9 +1444,11 @@ padding: 0 0em;
     font-weight: 600;
     padding-top: 20px;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
+
   .portfolio-studies-1 {
     background-size: 30vw auto;
     background-position: 85%;
@@ -1505,11 +1546,24 @@ display: none;
     display: block;
     opacity: 0.5;
   }
+
+  .reel-title {
+
+    padding-top: 3em;
+
+  }
+
+  .reel-para {
+
+    padding: 0 8em 0 0;
+  }
+
 }
 
 @media only screen and (max-width: 60em) {}
 
 @media screen and (max-width: 63.75em) {
+
   .nav-container {
     position: fixed;
     top: 0;
