@@ -90,10 +90,6 @@ footer {
   font-weight: 300;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
 
 figure {
   margin: 0;
@@ -109,7 +105,7 @@ margin-left: 67%;
 }
 
 .vimeo-marg {
-  padding-top: 2rem;
+  padding: 1rem;
 }
 
 .unit {
@@ -118,6 +114,7 @@ margin-left: 67%;
 }
 
 a:focus {
+
   outline: 3px dashed #928776;
 }
 
@@ -289,6 +286,48 @@ header {
   background-color: #000;
 }
 
+.mastheader-cusa {
+  /*background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover; */
+  padding: 1em;
+  height: 12em;
+  background-color: #000;
+}
+
+.mastheader-nissan {
+  /*background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover; */
+  padding: 1em;
+  height: 12em;
+  background-color: #000;
+}
+
+.mastheader-infiniti {
+  /*background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover; */
+  padding: 1em;
+  height: 12em;
+  background-color: #000;
+}
+
+.mastheader-palmviewfinder {
+  /*background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover; */
+  padding: 1em;
+  height: 12em;
+  background-color: #000;
+}
+
+.mastheader-smile {
+  /*background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover; */
+  padding: 1em;
+  height: 12em;
+  background-color: #000;
+}
+
+.mastheader-tulipfestival {
+  /*background: url("../images/cangeo/rcgs-bg.png") no-repeat top right / cover; */
+  padding: 1em;
+  height: 12em;
+  background-color: #000;
+}
+
 .mastheader-mandela {
   /*background: url("../images/mandella/man-bg.jpg") no-repeat top right / cover; */
   padding: 1em;
@@ -401,16 +440,14 @@ header {
 }
 
 .piece-text {
-  text-align: center;
   padding: 1em;
-  padding-top: 7em;
+  padding-top: 1em;
   font-weight: 300;
 }
 
 .piece-text2 {
-  text-align: center;
-  padding-left: 5em;
-  padding-right: 5em;
+  margin: auto;
+  padding: 2rem;
   font-weight: 300;
 }
 
@@ -553,40 +590,49 @@ blockquote p {
 .portfolio-studies-1 {
   color: #d6d5d4;
   background-color: $yellow;
-  background-image: url("../images/holtz/holtz-1.png");
+  background-image: url("../images/holtz/holtz-homepage-logo.jpg");
   height: 293px;
   background-position: center center;
   background-size: 30vw auto;
   background-repeat: no-repeat;
 }
 
+.portfolio-1-bg {
+  background-color: #ffffff;
+}
+
 .portfolio-studies-2 {
   color: #d6d5d4;
-  background-image: url("../images/cangeo/bergman-port-pic.png");
+  background-image: url("../images/cangeo/Homepage_3_4_size_template.jpg");
   background-color: $black;
   height: 293px;
   background-position: 40% 52%;
   background-size: 30vw auto;
   background-repeat: no-repeat;
+  border-collapse: #000;
+}
+
+.portfolio-2-bg {
+  background-color: #33143d;
 }
 
 .portfolio-studies-3 {
   color: #d6d5d4;
-  background-image: url("../images/arsenal/arsenal-1.jpg");
+  background-image: url("../images/nissan/nissan-large-med.jpg");
   background-color: $yellow;
   height: 293px;
   background-position: 52% center;
-  background-size: 30vw auto;
+  background-size: 90vw auto;
   background-repeat: no-repeat;
 }
 
 .portfolio-studies-4 {
   color: #d6d5d4;
-  background-image: url("../images/skin/stack-update.jpg");
+  background-image: url("../images/infiniti/infiniti-med-large.jpg");
   background-color: $black;
   height: 293px;
   background-position: center center;
-  background-size: 150vw auto;
+  background-size: 90vw auto;
   background-repeat: no-repeat;
 }
 
@@ -596,17 +642,17 @@ blockquote p {
   background-color: $black;
   height: 293px;
   background-position: center center;
-  background-size: 150vw auto;
+  background-size: 100vw auto;
   background-repeat: no-repeat;
 }
 
 .portfolio-studies-6 {
   color: #d6d5d4;
-  background-image: url("../images/pvf/pvf-main.png");
+  background-image: url("../images/skin/skin-small.jpg");
   background-color: $yellow;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
-  background-size: 110vw auto;
+  background-size: 10vw auto;
   background-repeat: no-repeat;
 }
 
@@ -614,7 +660,7 @@ blockquote p {
   color: #d6d5d4;
   background-image: url("../images/gfs/gfs-main.png");
   background-color: $black;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
   background-size: 80vw auto;
   background-repeat: no-repeat;
@@ -624,7 +670,7 @@ blockquote p {
   color: #d6d5d4;
   background-image: url("../images/wwf/wwf-main.png");
   background-color: $yellow;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
   background-size: 110vw auto;
   background-repeat: no-repeat;
@@ -634,7 +680,7 @@ blockquote p {
   color: #d6d5d4;
   background-image: url("../images/mandella/man-1.png");
   background-color: $yellow;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
   background-size: 100vw auto;
   background-repeat: no-repeat;
@@ -644,7 +690,7 @@ blockquote p {
   color: #d6d5d4;
   background-image: url("../images/mandella/man-1.png");
   background-color: $yellow;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
   background-size: 100vw auto;
   background-repeat: no-repeat;
@@ -652,11 +698,11 @@ blockquote p {
 
 .portfolio-studies-11 {
   color: #d6d5d4;
-  background-image: url("../images/mandella/man-1.png");
+  background-image: url("../images/wwf/wwf-main.png");
   background-color: $yellow;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
-  background-size: 100vw auto;
+  background-size: 35vw auto;
   background-repeat: no-repeat;
 }
 
@@ -664,11 +710,53 @@ blockquote p {
   color: #d6d5d4;
   background-image: url("../images/mandella/man-1.png");
   background-color: $yellow;
-  height: 289px;
+  height: 293px;
   background-position: 52% center;
   background-size: 100vw auto;
   background-repeat: no-repeat;
 }
+
+
+
+.portfolio-studies-13 {
+  color: #d6d5d4;
+  background-color: $yellow;
+  height: 293px;
+  background-position: center center;
+  background-size: 85vw auto;
+  background-repeat: no-repeat;
+}
+
+.portfolio-13-bg {
+  background-color: #ffffff;
+}
+
+.portfolio-studies-14 {
+  color: #d6d5d4;
+  background-image: url("../images/cusa/homepage-small-screen-medium.jpg");
+  background-color: $black;
+  height: 293px;
+  background-position: 40% 52%;
+  background-size: 35vw auto;
+  background-repeat: no-repeat;
+  border-collapse: #000;
+}
+
+.portfolio-studies-15 {
+  color: #d6d5d4;
+  background-image: url("../images/smile/homepage-small-screen-square.jpg");
+  background-color: $black;
+  height: 293px;
+  background-position: center center;
+  background-size: 100vw auto;
+  background-repeat: no-repeat;
+}
+
+.portfolio-14-bg {
+  background-color: #FFF;
+}
+
+
 
 .blurb {
   padding-top: 15%;
@@ -1218,6 +1306,24 @@ padding: 0 0em;
   padding: 0;
 }
 
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.resize {
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resize-med {
+  display: block;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 @media only screen and (min-width: 10em) {
 
@@ -1228,17 +1334,17 @@ padding: 0 0em;
 
   .portfolio-studies-2 {
     background-size: 120vw auto;
-    background-position: 40% bottom;
+    background-position: 40% center;
   }
 
   .portfolio-studies-3 {
-    background-size: 100vw auto;
-    background-position: 50% center;
+    background-size: 214vw auto;
+    background-position: 82% top;
   }
 
   .portfolio-studies-4 {
-    background-size: 100vw auto;
-    background-position: center center;
+    background-size: 214vw auto;
+    background-position: 38% top;
   }
 
   .portfolio-studies-5 {
@@ -1247,13 +1353,35 @@ padding: 0 0em;
   }
 
   .portfolio-studies-6 {
-    background-size: 130vw auto;
+    background-size: 94vw auto;
+    background-position: center auto;
+  }
+
+  .portfolio-studies-7 {
+    background-size: 113vw auto;
     background-position: center auto;
   }
 
   .portfolio-studies-10 {
     background-size: 130vw auto;
     background-position: center auto;
+  }
+
+  .portfolio-studies-13 {
+    background-image: url("../images/pvf/homepage-small-screen-square.jpg");
+    background-size: 100vw auto;
+    background-position: 22% center;
+  }
+
+  .portfolio-studies-14 {
+    background-size: 100vw auto;
+    background-position: 22% center;
+  }
+
+  .portfolio-studies-15 {
+    background-image: url("../images/smile/homepage-small-screen-square.jpg");
+    background-size: 95vw auto;
+    background-position: 22% center;
   }
 
 }
@@ -1263,6 +1391,13 @@ padding: 0 0em;
   header {
     height: 38em;
   }
+
+  .portfolio-studies-13 {
+    background-image: url("../images/pvf/homepage-medium-screen-square.jpg");
+    background-size: 100vw auto;
+    background-position: 22% center;
+  }
+
 }
 
 @media only screen and (min-width: 25em) {
@@ -1274,22 +1409,34 @@ padding: 0 0em;
 
   .portfolio-studies-2 {
     background-size: 100vw auto;
-    background-position: 40% bottom;
+    background-position: 40% center;
   }
 
   .portfolio-studies-3 {
-    background-size: 100vw auto;
-    background-position: 50% center;
+    background-size: 160vw auto;
+    background-position: 100% top;
   }
 
   .portfolio-studies-4 {
-    background-size: 70vw auto;
-    background-position: center center;
+    background-size: 160vw auto;
+    background-position: 49% top;
   }
 
   .portfolio-studies-5 {
     background-size: 130vw auto;
     background-position: center center;
+  }
+
+  .portfolio-studies-13 {
+    background-image: url("../images/pvf/homepage-medium-screen-square.jpg");
+    background-size: 101vw auto;
+    background-position: 50% center;
+  }
+
+  .portfolio-studies-15 {
+    background-image: url("../images/smile/homepage-small-screen-square.jpg");
+    background-size: 100vw auto;
+    background-position: 22% center;
   }
 
   .skill-icon {
@@ -1326,6 +1473,8 @@ padding: 0 0em;
   }
 }
 
+
+
 @media only screen and (min-width: 38em) {
 
   .portfolio-studies-1 {
@@ -1334,18 +1483,20 @@ padding: 0 0em;
   }
 
   .portfolio-studies-2 {
-    background-size: 55vw auto;
-    background-position: 40% center bottom;
+    background-size: 65vw auto;
+    background-position: 40% center;
   }
 
   .portfolio-studies-3 {
-    background-size: 50vw auto;
-    background-position: 52% center;
+    background-image: url("../images/nissan/nissan-large-med.jpg");
+    background-size: 108vw auto;
+    background-position: 96% center;
   }
 
   .portfolio-studies-4 {
-    background-size: 44vw auto;
-    background-position: 85%;
+    background-image: url("../images/infiniti/infiniti-med-large.jpg");
+    background-size: 104vw auto;
+    background-position: 30% top;
   }
 
   .portfolio-studies-5 {
@@ -1368,6 +1519,26 @@ padding: 0 0em;
     background-position: 52% center;
     background-size: 50vw auto;
   }
+
+  .portfolio-studies-13 {
+    background-image: url("../images/pvf/homepage-small-screen-square-2.jpg");
+    background-size: 51vw auto;
+    background-position: 50% center;
+  }
+
+  .portfolio-studies-14 {
+    background-image: url("../images/cusa/homepage-small-screen-medium.jpg");
+    background-size: 55vw auto;
+    background-position: 30% center;
+  }
+
+  .portfolio-studies-15 {
+    background-image: url("../images/smile/smile-medium-large.jpg");
+    background-size: 145vw auto;
+    background-position: 22% center;
+  }
+
+
 
   .skills {
     margin-left: 5em;
@@ -1412,6 +1583,13 @@ padding: 0 0em;
     height: 80px;
     padding-top: 0em;
   }
+
+  .piece-text {
+    text-align: center;
+    padding: 1em;
+    padding-top: 1em;
+    font-weight: 300;
+  }
 }
 
 @media only screen and (max-width: 48em) {
@@ -1445,6 +1623,14 @@ padding: 0 0em;
     padding-top: 20px;
   }
 
+  .resize-med {
+    display: block;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -1456,32 +1642,32 @@ padding: 0 0em;
   }
 
   .portfolio-studies-2 {
-    background-size: 50vw auto;
-    background-position: 50% bottom;
+    background-size: 65vw auto;
+    background-position: 50% center;
     height: 293px;
   }
 
   .portfolio-studies-3 {
-    background-size: 40vw auto;
-    background-position: 52% center;
+    background-size: 66vw auto;
+    background-position: 91% center;
     height: 293px;
   }
 
   .portfolio-studies-4 {
-    background-size: 30vw auto;
-    background-position: 85%;
+    background-size: 67vw auto;
+    background-position: 50% top;
     height: 293px;
   }
 
   .portfolio-studies-5 {
-    background-size: 100vw auto;
+    background-size: 82vw auto;
     background-position: 50%;
     height: 293px;
   }
 
   .portfolio-studies-6 {
     background-position: 52% center;
-    background-size: 36vw auto;
+    background-size: 24vw auto;
   }
 
   .portfolio-studies-7 {
@@ -1492,6 +1678,24 @@ padding: 0 0em;
   .portfolio-studies-8 {
     background-position: 52% center;
     background-size: 32vw auto;
+  }
+
+  .portfolio-studies-13 {
+    background-image: url("../images/pvf/Homepage-large-screen-pvf-2.jpg");
+    background-size: 113vw auto;
+    background-position: 50% center;
+  }
+
+  .portfolio-studies-14 {
+    background-image: url("../images/cusa/homepage-small-screen-medium.jpg");
+    background-size: 33vw auto;
+    background-position: 22% center;
+  }
+
+  .portfolio-studies-15 {
+    background-image: url("../images/smile/smile-large.jpg");
+    background-size: 130vw auto;
+    background-position: 75% center;
   }
 
   .wrapper {
@@ -1559,6 +1763,7 @@ display: none;
   }
 
 }
+
 
 @media only screen and (max-width: 60em) {}
 
