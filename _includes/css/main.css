@@ -1571,6 +1571,12 @@ padding: 0 0em;
 
   }
 
+  .cusa-title {
+
+      margin: 0;
+
+    }
+
   .reel-text {
 
     padding: 0 0 0 1em;
@@ -1756,6 +1762,12 @@ display: none;
     padding-top: 3em;
 
   }
+
+  .cusa-title {
+
+      padding-top: 3em;
+
+    }
 
   .reel-para {
 
