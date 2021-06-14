@@ -1313,12 +1313,26 @@ padding: 0 0em;
 
 .resize {
   display: block;
-  width: 60%;
+  width: 45%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resize-smile {
+  display: block;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
 }
 
 .resize-med {
+  display: block;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resize-tulip {
   display: block;
   width: 95%;
   margin-left: auto;
@@ -1434,7 +1448,7 @@ padding: 0 0em;
   }
 
   .portfolio-studies-15 {
-    background-image: url("../images/smile/homepage-small-screen-square.jpg");
+    background-image: url("../images/smile/smile-small-screen.jpg");
     background-size: 100vw auto;
     background-position: 22% center;
   }
@@ -1533,12 +1547,10 @@ padding: 0 0em;
   }
 
   .portfolio-studies-15 {
-    background-image: url("../images/smile/smile-medium-large.jpg");
+    background-image: url("../images/smile/smile-medium-screen.jpg");
     background-size: 145vw auto;
-    background-position: 22% center;
+    background-position: 55% center;
   }
-
-
 
   .skills {
     margin-left: 5em;
@@ -1596,6 +1608,13 @@ padding: 0 0em;
     padding-top: 1em;
     font-weight: 300;
   }
+
+  .resize-smile {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @media only screen and (max-width: 48em) {
@@ -1631,7 +1650,7 @@ padding: 0 0em;
 
   .resize-med {
     display: block;
-    width: 45%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -1699,8 +1718,8 @@ padding: 0 0em;
   }
 
   .portfolio-studies-15 {
-    background-image: url("../images/smile/smile-large.jpg");
-    background-size: 130vw auto;
+    background-image: url("../images/smile/smile-large-screen-wide.jpg");
+    background-size: 110vw auto;
     background-position: 75% center;
   }
 
@@ -1772,6 +1791,13 @@ display: none;
   .reel-para {
 
     padding: 0 8em 0 0;
+  }
+
+  .resize-smile {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 }

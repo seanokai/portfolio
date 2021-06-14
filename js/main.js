@@ -15,7 +15,6 @@ $dipper.waypoint(function (direction) {
   }
 });
 
-
 var TxtRotate = function (el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
@@ -38,7 +37,7 @@ TxtRotate.prototype.tick = function () {
 
   this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
 
-  var that = this;
+  var _this = this;
   var delta = 300 - Math.random() * 100;
 
   if (this.isDeleting) {
@@ -55,7 +54,7 @@ TxtRotate.prototype.tick = function () {
   }
 
   setTimeout(function () {
-    that.tick();
+    _this.tick();
   }, delta);
 };
 
