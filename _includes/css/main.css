@@ -419,7 +419,7 @@ header {
   bottom: 0.5rem;
   right: 3rem;
   opacity: 0;
-  transition: all 200ms ease-in;
+  transition: all 300ms ease-in;
 }
 
 .backup:hover {

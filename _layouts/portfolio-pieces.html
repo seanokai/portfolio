@@ -15,7 +15,7 @@
 
 <body>
 
-	<header class=" grid {{page.mastheadClass}}">
+	<header class="grid {{page.mastheadClass}}" id="top">
 
     <ul class="skip-links">
       <li><a href="#nav">Skip to navigation</a></li>
@@ -37,20 +37,22 @@
 
 
   <div class="back">
-  <a href="{{site.baseurl}}/index.html" alt=""><img src="{{site.baseurl}}/images/back.svg"></a>
+  <a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/back.svg" alt="back button"></a>
   </div>
 
 
 	{{content}}
 
-  <div class="backup dipper">
-  <a href="#top" ><img src="{{site.baseurl}}/images/backup.svg"></a>
+  <div>
+  <a class="backup dipper" href="#top" ><img src="{{site.baseurl}}/images/backup.svg" alt="backup button"></a>
   </div>
 
 
 	<footer class="gutter footer">
 		 <p>2021 © Sean Okai • All Rights Reserved.</p>
 	</footer>
+
+
 
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"
   			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
