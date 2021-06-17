@@ -249,7 +249,7 @@ h4 {
 }
 
 .picturespace {
-  margin-bottom: 2px;
+  margin-bottom: 2em;
   padding-left: 2px;
   padding-right: 2px;
 }
@@ -385,7 +385,7 @@ header {
 }
 
 .man-space {
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
 }
 
 .back-image {
@@ -440,21 +440,7 @@ header {
 }
 
 .piece-text {
-  padding: 1em;
-  padding-top: 1em;
-  font-weight: 300;
-}
-
-.piece-text2 {
-  margin: auto;
-  padding: 2rem;
-  font-weight: 300;
-}
-
-.piece-text3 {
-  text-align: center;
-  padding: 1em;
-  padding-top: 9em;
+  margin: 2rem 2rem;
   font-weight: 300;
 }
 
@@ -1800,10 +1786,24 @@ display: none;
     margin-right: auto;
   }
 
+  .piece-text {
+    margin: 10rem 2rem;
+    font-weight: 300;
+  }
+
+  .man-space {
+    padding-bottom: 2rem;
+  }
+
 }
 
 
-@media only screen and (max-width: 60em) {}
+@media only screen and (max-width: 60em) {
+
+  .resize-tulip {
+    padding-bottom: 2rem;
+  }
+}
 
 @media screen and (max-width: 63.75em) {
 
