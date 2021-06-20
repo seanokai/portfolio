@@ -7,11 +7,9 @@ user: sean
 
 # portfolio website
 
-A website showcasing my graphic design portfolio pieces and videos.
+A website showcasing my design portfolio pieces and videos.
 
-I plan to have a three sections each showing various projects Ive done. I tend to deal with 3d, typography, photography and videography, UX/UI and web development. Much of my work has been accumulated from my vast experience in different media fields.
-
-*From time to time I will be coming back to update my readme.md*
+*Updated from time to time.. readme.md*
 
 ## Contact me
 
@@ -24,21 +22,10 @@ I plan to have a three sections each showing various projects Ive done. I tend t
 - Main page
 
 - Categories:
-	- Graphic design.
-	- Videography
-	- Photography
-	- 3-dimensional
-	- Layout
-  - UI/UX
-  - Web dev
+ - Advertisement & Video Pieces
 
-- Grid layout/ selection
+## Things to do right now
+- [x] Clean up code.
 
-## Things to do righ now
-- [x] Write out readme.md.
-- [x] **Sketch** out the layout of website.
-- [x] **Curate** art work/ videos.
-- [x] execute a *reasonable* layout and commit.
-- [ ]  Add crystalized pieces.
 
 [Seanzokai] (https://seanzokai.ca)

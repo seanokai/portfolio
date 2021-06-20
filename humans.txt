@@ -5,8 +5,6 @@
 Designer & Developer: Sean Zulu Okai <hello@seanzokai.ca>
 site: https://seanzokai.ca
 Github: https://github.com/seanokai/portfolio
-Twitter:
-Location: Canada
 
 ---
 
