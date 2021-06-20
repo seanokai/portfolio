@@ -589,7 +589,7 @@ blockquote p {
 
 .portfolio-studies-2 {
   color: #d6d5d4;
-  background-image: url("../images/cangeo/Homepage_3_4_size_template.jpg");
+  background-image: url("../images/tulipfestival/Homepage_3_4_size_template.jpg");
   background-color: $black;
   height: 293px;
   background-position: 40% 52%;
@@ -1787,7 +1787,7 @@ display: none;
   }
 
   .piece-text {
-    margin: 10rem 2rem;
+    margin: auto 2rem;
     font-weight: 300;
   }
 
