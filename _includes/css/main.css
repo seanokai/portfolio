@@ -441,7 +441,10 @@ header {
 
 .piece-text {
   margin: 2rem 2rem;
-  font-weight: 300;
+}
+
+.piece-text2 {
+  margin: 1rem 2rem 2rem;
 }
 
 .contactme {
@@ -1589,10 +1592,11 @@ padding: 0 0em;
   }
 
   .piece-text {
-    text-align: center;
-    padding: 1em;
-    padding-top: 1em;
-    font-weight: 300;
+      margin: 2rem 2rem;
+  }
+
+  .piece-text2 {
+    background-position: center;
   }
 
   .resize-smile {
@@ -1600,6 +1604,7 @@ padding: 0 0em;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    padding: 1rem;
   }
 }
 
@@ -1787,8 +1792,7 @@ display: none;
   }
 
   .piece-text {
-    margin: auto 2rem;
-    font-weight: 300;
+      margin: 2rem 2rem;
   }
 
   .man-space {
