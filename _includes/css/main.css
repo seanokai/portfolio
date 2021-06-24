@@ -444,7 +444,7 @@ header {
 }
 
 .piece-text2 {
-  margin: 1rem 2rem 2rem;
+  margin: 1rem 1rem 2rem;
 }
 
 .contactme {
@@ -1307,6 +1307,13 @@ padding: 0 0em;
   margin-right: auto;
 }
 
+.resize-wwf {
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .resize-smile {
   display: block;
   width: 85%;
@@ -1616,6 +1623,16 @@ padding: 0 0em;
   }
 }
 
+@media only screen and (min-width: 50em) {
+
+  .piece-text2 {
+
+  margin: 5rem 2rem 2rem;
+
+  }
+
+}
+
 @media only screen and (min-width: 53em) {
 
   .hero-p p {
@@ -1786,13 +1803,26 @@ display: none;
 
   .resize-smile {
     display: block;
-    width: 80%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .resize-wwf {
+    display: block;
+    width: 45%;
     margin-left: auto;
     margin-right: auto;
   }
 
   .piece-text {
       margin: 2rem 2rem;
+  }
+
+  .piece-text2 {
+
+  margin: 10rem 2rem 2rem;
+
   }
 
   .man-space {
