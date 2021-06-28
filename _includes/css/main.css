@@ -420,6 +420,11 @@ header {
 .back {
   padding-left: 2rem;
   padding-top: 2rem;
+  opacity: 0.4;
+}
+
+.back:hover {
+  opacity: 0.8;
 }
 
 .backup {
