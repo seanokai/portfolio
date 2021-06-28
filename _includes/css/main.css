@@ -271,6 +271,14 @@ header {
   height: 30em;
 }
 
+.masthead-uni-header {
+  padding: 1em;
+  background-color: #000;
+  background: url("../images/portfolio-piece-header-image.jpg");
+  background-size: cover;
+  height: 12em;
+}
+
 .mastheader-holtz {
   padding: 1em;
   background-color: #000;
@@ -447,6 +455,10 @@ header {
   margin: 1rem 1rem 2rem;
 }
 
+.piece-text3 {
+  margin: 1rem 1rem 2rem;
+}
+
 .contactme {
   color: #7F8FA1;
   text-align: center;
@@ -572,8 +584,9 @@ blockquote p {
 }
 
 .logo {
-  width: 100%;
+  width: 60%;
   margin: 0;
+  padding-top: .7rem;
 }
 
 .portfolio-studies-1 {
@@ -936,13 +949,18 @@ figcaption {
   display: inline-block;
   min-width: 35px;
 }
+
+.footer-icon {
+  width: 15px;
+
 }
+
 
 .about-pic-image {
   height: auto;
   width: auto;
 }
-}
+
 
 .about-section {
   padding-top: 10em;
@@ -1136,11 +1154,11 @@ figcaption {
   padding: 0.5em 2em;
   margin-top: 2em;
   margin-bottom: 2em;
-  color: #000;
-  background: #fff;
+  color: #fff;
+  background: #303030;
   border: 2px solid #000;
-  border-radius: ;
-  border-color: #000;
+  border-radius: 5px ;
+  border-color: #303030;
   font-size: 18px;
   transition: all 200ms linear;
 }
@@ -1154,6 +1172,7 @@ figcaption {
 .btn-hire:hover  {
   background: #000;
   color: #fcdc32;
+  border-color: #000
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] {
@@ -1333,6 +1352,12 @@ padding: 0 0em;
   width: 95%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.disclaimer {
+  font-size: 10px;
+  text-align: center;
+  color: #d9d9d9;
 }
 
 @media only screen and (min-width: 10em) {
@@ -1558,7 +1583,8 @@ padding: 0 0em;
   }
 
   .logo {
-    max-width: 200px;
+    width: 40%;
+    padding-top: .7rem;
   }
 
   .portfolio-tag {
@@ -1829,6 +1855,11 @@ display: none;
     padding-bottom: 2rem;
   }
 
+  .logo {
+    width: 30%;
+    margin-right: 6rem;
+  }
+
 }
 
 
@@ -1895,7 +1926,7 @@ display: none;
     font-size: 24px;
     font-weight: 600;
     transform: translateY(-20px);
-    transition: all 0.2s ease;
+    transition: all 0.9s ease;
   }
 
   .nav-open {
