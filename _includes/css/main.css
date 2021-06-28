@@ -586,7 +586,11 @@ blockquote p {
 .logo {
   width: 60%;
   margin: 0;
-  padding-top: .7rem;
+  padding-top: 1.7rem;
+}
+
+.logo-link a {
+  visibility: hidden;
 }
 
 .portfolio-studies-1 {
@@ -1584,7 +1588,7 @@ padding: 0 0em;
 
   .logo {
     width: 40%;
-    padding-top: .7rem;
+    padding-top: 1.7rem;
   }
 
   .portfolio-tag {
@@ -1856,8 +1860,9 @@ display: none;
   }
 
   .logo {
-    width: 30%;
-    margin-right: 6rem;
+    width: 25%;
+    float: left;
+    margin-left: 50px;
   }
 
 }
