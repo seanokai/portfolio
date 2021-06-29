@@ -2,7 +2,7 @@
 
 # TEAM
 
-Designer & Developer: Sean Zulu Okai <hello@seanzokai.ca>
+Designer & Developer: Sean Zulu Okai
 site: https://seanzokai.ca
 Github: https://github.com/seanokai/portfolio
 
@@ -14,8 +14,8 @@ TJB
 CREDITS
 ---
 assets
-- www.flaticon.com/authors/freepik - commons license.
-- WWW.Emske.com
+
+- User Generated
 
 #TECHNOLOGY
 
@@ -26,7 +26,3 @@ assets
 - Jekyll
 - Ruby
 - Markdown
-
----
-
-## Hosting

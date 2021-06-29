@@ -7,25 +7,8 @@ user: sean
 
 # portfolio website
 
-A website showcasing my design portfolio pieces and videos.
+A website showcasing my portfolio works.
 
 *Updated from time to time.. readme.md*
 
-## Contact me
-
- email: seanokai@hotmail.com
- github: https://github.com/seanokai
-
-
- ## Areas to cover
-
-- Main page
-
-- Categories:
- - Advertisement & Video Pieces
-
-## Things to do right now
-- [x] Clean up code.
-
-
-[Seanzokai] (https://seanzokai.ca)
+szo
